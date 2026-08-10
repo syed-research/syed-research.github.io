@@ -30,6 +30,33 @@ excerpt: "Advancing CO₂ utilisation, chemical looping, and sustainable thermoc
   </div>
 
 </div>
+<div class="feature__wrapper" style="margin-top:40px;">
+
+  <div class="feature-item">
+    <div class="feature-icon"><i class="fas fa-fire"></i></div>
+    <h3>Chemical Looping</h3>
+    <p>High‑temperature redox cycles for hydrogen production, CO₂ utilisation, and clean fuel generation.</p>
+  </div>
+
+  <div class="feature-item">
+    <div class="feature-icon"><i class="fas fa-cloud"></i></div>
+    <h3>CO₂ Conversion</h3>
+    <p>Thermochemical pathways transforming CO₂ into syngas, methanol, carbonates, and solid carbon.</p>
+  </div>
+
+  <div class="feature-item">
+    <div class="feature-icon"><i class="fas fa-flask"></i></div>
+    <h3>Advanced Materials</h3>
+    <p>Designing oxygen carriers, catalysts, and sorbents for next‑generation looping and utilisation systems.</p>
+  </div>
+
+  <div class="feature-item">
+    <div class="feature-icon"><i class="fas fa-laptop-code"></i></div>
+    <h3>CFD & Modelling</h3>
+    <p>Multi‑scale reactor modelling, multiphase CFD, and kinetic simulation for process optimisation.</p>
+  </div>
+
+</div>
 
 # Welcome to the **CLIMATE Research Group**
 
