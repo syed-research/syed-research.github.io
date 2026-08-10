@@ -3,16 +3,18 @@ title: "CLIMATE Research Group"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
   overlay_image: /assets/images/banner.jpg
+  overlay_filter: 0.25
+  overlay_color: "#003049"
+  caption: "CLIMATE Research Group — University of Southampton"
 excerpt: "Advancing CO₂ utilisation, chemical looping, and sustainable thermochemical engineering."
 ---
+
 <div style="text-align:center; padding: 40px 0;">
 
   <img src="/assets/images/logo.png" alt="CLIMATE Crest Logo" width="260" style="margin-bottom:20px;">
 
-  <h1 style="font-size:2.2em; margin-bottom:10px;">
+  <h1 style="font-size:2.2em; margin-bottom:10px; font-weight:600;">
     CLIMATE Research Group
   </h1>
 
