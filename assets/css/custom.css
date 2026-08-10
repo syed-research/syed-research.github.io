@@ -1,0 +1,22 @@
+/* Remove default MM footer elements */
+.page__footer-follow,
+.page__footer-copyright {
+  display: none !important;
+}
+
+/* Add clean academic footer */
+.page__footer {
+  text-align: center;
+  padding: 12px 0;
+  font-size: 0.85em;
+  color: #666;
+  background: #f8f8f8;
+  border-top: 1px solid #e5e5e5;
+}
+
+/* Show only your custom copyright text */
+.page__footer .footer__custom {
+  display: block;
+  font-size: 0.9em;
+  color: #555;
+}
