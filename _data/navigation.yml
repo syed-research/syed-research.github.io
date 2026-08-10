@@ -1,22 +1,28 @@
 main:
   - title: "Home"
+    icon: "fas fa-home"
     url: "/"
 
   - title: "Research"
+    icon: "fas fa-flask"
     url: "/research/"
 
   - title: "People"
+    icon: "fas fa-users"
     url: "/people/"
 
   - title: "Facilities"
+    icon: "fas fa-cogs"
     url: "/facilities/"
 
   - title: "Publications"
+    icon: "fas fa-book"
     url: "/publications/"
 
   - title: "News"
+    icon: "fas fa-newspaper"
     url: "/news/"
 
   - title: "Contact"
+    icon: "fas fa-envelope"
     url: "/contact/"
-
