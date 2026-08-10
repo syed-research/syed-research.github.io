@@ -1,13 +1,22 @@
 main:
   - title: "Home"
     url: "/"
+
   - title: "Research"
     url: "/research/"
+
   - title: "People"
     url: "/people/"
+
+  - title: "Facilities"
+    url: "/facilities/"
+
   - title: "Publications"
     url: "/publications/"
+
   - title: "News"
     url: "/news/"
+
   - title: "Contact"
     url: "/contact/"
+
