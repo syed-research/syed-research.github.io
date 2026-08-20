@@ -4,6 +4,7 @@ layout: single
 permalink: /news/
 toc: false
 author_profile: false
+sidebar: false
 classes: no-author
 ---
 
