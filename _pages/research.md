@@ -9,6 +9,7 @@ toc_label: "On this page"
 toc_icon: "flask"
 ---
 
+
 # Our Research
 
 The CLIMATE Research Group develops next‑generation thermochemical technologies for **CO₂ utilisation**, **chemical looping**, **industrial decarbonisation**, and **sustainable fuel generation**. Our work spans materials synthesis, reaction engineering, and computational modelling of high‑temperature systems.
