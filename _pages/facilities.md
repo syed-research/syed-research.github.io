@@ -93,14 +93,40 @@ Our computational tools enable design, optimisation, and scale‑up of advanced 
 
 ## Facility Gallery
 
-<div class="gallery">
-  <img src="/assets/images/SETUP.jpeg" alt="Setup">
-  <img src="/assets/images/AUTOCHEM%20iii.jpeg" alt="AUTOCHEM III">
-  <img src="/assets/images/BET.jpeg" alt="BET Surface Area Analyzer">
-  <img src="/assets/images/Mass%20Spec.jpeg" alt="Mass Spectrometer">
-  <img src="/assets/images/XRD.jpeg" alt="XRD Diffractometer">
-  <img src="/assets/images/Muffle.jpeg" alt="Muffle Furnace">
+<div class="facility-gallery">
+
+  <figure class="facility-item">
+    <img src="/assets/images/SETUP.jpeg" alt="Setup">
+    <figcaption>Setup</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <img src="/assets/images/AUTOCHEM%20iii.jpeg" alt="AUTOCHEM III">
+    <figcaption>AUTOCHEM III</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <img src="/assets/images/BET.jpeg" alt="BET Surface Area Analyzer">
+    <figcaption>BET Surface Area Analyzer</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <img src="/assets/images/Mass%20Spec.jpeg" alt="Mass Spectrometer">
+    <figcaption>Mass Spectrometer</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <img src="/assets/images/XRD.jpeg" alt="XRD Diffractometer">
+    <figcaption>XRD Diffractometer</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <img src="/assets/images/Muffle.jpeg" alt="Muffle Furnace">
+    <figcaption>Muffle Furnace</figcaption>
+  </figure>
+
 </div>
+
 
 
 ---
