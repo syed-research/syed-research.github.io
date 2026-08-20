@@ -128,13 +128,9 @@ Our computational tools enable design, optimisation, and scale‑up of advanced 
 
 </div>
 
-
-
 ---
 
 ## Summary
 Together, these facilities allow the CLIMATE Research Group to perform **end‑to‑end research** — from material synthesis and characterisation to reactor testing, gas analysis, and computational modelling.
 
-
-Together, these facilities allow the CLIMATE Research Group to perform **end‑to‑end research** — from material synthesis and characterisation to reactor testing, gas analysis, and computational modelling.
 
