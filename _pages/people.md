@@ -3,6 +3,7 @@ title: "People"
 layout: single
 permalink: /people/
 author_profile: false
+sidebar: false
 toc: true
 toc_label: "Team Overview"
 toc_icon: "users"
