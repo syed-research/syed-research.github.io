@@ -6,6 +6,7 @@ toc: true
 toc_label: "Publication Categories"
 toc_icon: "book"
 author_profile: false
+sidebar: false
 ---
 
 # Publications
