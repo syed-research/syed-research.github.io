@@ -91,7 +91,22 @@ Our computational tools enable design, optimisation, and scale‑up of advanced 
 
 ---
 
+## Facility Gallery
+
+<div class="gallery">
+  <img src="/assets/images/Setup.jpg" alt="Setup">
+  <img src="/assets/images/AUTOCHEM_iii.jpg" alt="AUTOCHEM III">
+  <img src="/assets/images/BET.jpg" alt="BET">
+  <img src="/assets/images/Mass_Spec.jpg" alt="Mass Spec">
+  <img src="/assets/images/XRD.jpg" alt="XRD">
+  <img src="/assets/images/Muffle.jpg" alt="Muffle Furnace">
+</div>
+
+---
+
 ## Summary
+Together, these facilities allow the CLIMATE Research Group to perform **end‑to‑end research** — from material synthesis and characterisation to reactor testing, gas analysis, and computational modelling.
+
 
 Together, these facilities allow the CLIMATE Research Group to perform **end‑to‑end research** — from material synthesis and characterisation to reactor testing, gas analysis, and computational modelling.
 
