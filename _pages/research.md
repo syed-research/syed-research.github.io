@@ -3,6 +3,7 @@ title: "Research"
 layout: single
 permalink: /research/
 author_profile: false
+sidebar: false
 toc: true
 toc_label: "On this page"
 toc_icon: "flask"
