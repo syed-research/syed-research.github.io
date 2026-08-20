@@ -94,13 +94,14 @@ Our computational tools enable design, optimisation, and scale‑up of advanced 
 ## Facility Gallery
 
 <div class="gallery">
-  <img src="/assets/images/Setup.jpg" alt="Setup">
-  <img src="/assets/images/AUTOCHEM_iii.jpg" alt="AUTOCHEM III">
-  <img src="/assets/images/BET.jpg" alt="BET">
-  <img src="/assets/images/Mass_Spec.jpg" alt="Mass Spec">
-  <img src="/assets/images/XRD.jpg" alt="XRD">
-  <img src="/assets/images/Muffle.jpg" alt="Muffle Furnace">
+  <img src="/assets/images/SETUP.jpeg" alt="Setup">
+  <img src="/assets/images/AUTOCHEM%20iii.jpeg" alt="AUTOCHEM III">
+  <img src="/assets/images/BET.jpeg" alt="BET Surface Area Analyzer">
+  <img src="/assets/images/Mass%20Spec.jpeg" alt="Mass Spectrometer">
+  <img src="/assets/images/XRD.jpeg" alt="XRD Diffractometer">
+  <img src="/assets/images/Muffle.jpeg" alt="Muffle Furnace">
 </div>
+
 
 ---
 
