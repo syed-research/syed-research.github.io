@@ -6,89 +6,117 @@ toc: true
 toc_label: "On this page"
 ---
 
-# Research Interests
+# <span class="fade-up">Our Research</span>
 
-Our work advances low‑carbon energy systems through chemical looping, CO₂ utilisation, and reactor engineering. The CLIMATE Research Group integrates materials development, reactor design, and process modelling to deliver scalable decarbonisation pathways.
-
----
-
-## 🔥 Chemical Looping Technologies
-
-We develop next‑generation looping systems for hydrogen production, CO₂ capture, and syngas generation. Current focus areas include:
-
-- **Oxygen‑carrier optimisation** for redox stability and high‑temperature cycling  
-- **Ca–Cu looping** for integrated H₂ production and CO₂ separation  
-- **RWGS–CL integration** for modular syngas generation  
-- **Fe‑based looping** for industrial decarbonisation applications  
-
-Our work spans fundamental thermo‑kinetics, packed‑bed reactor behaviour, and pilot‑scale demonstrations.
+The CLIMATE Research Group advances low‑carbon energy systems through chemical looping, CO₂ utilisation, reactor engineering, and high‑temperature materials development. Our work integrates experiments, modelling, and process design to deliver scalable decarbonisation pathways.
 
 ---
 
-## 🧪 Materials Development & Characterisation
+## 🔥 <span class="fade-up">Chemical Looping Technologies</span>
 
-We design and evaluate advanced materials for looping and catalytic systems:
+<div class="fade-in">
+We develop next‑generation looping systems for hydrogen production, CO₂ capture, and syngas generation.
+
+- Oxygen‑carrier optimisation  
+- Ca–Cu looping for H₂ + CO₂ separation  
+- RWGS–CL integration  
+- Fe‑based looping for industrial decarbonisation  
+</div>
+
+---
+
+## 🧪 <span class="fade-up">Materials Development & Characterisation</span>
+
+<div class="fade-in">
+We design and evaluate advanced materials for looping and catalytic systems.
 
 - Perovskites (Ca/Mn‑doped, Sr‑based)  
 - Ceria‑based oxygen carriers  
-- Zeolites, MOFs, activated carbons for CO₂ capture  
-- Industrial OSR materials (in collaboration with Cerpotech AS)
-
-Techniques include TGA cycling, BET analysis, XRD, SEM, and ANN‑based kinetic modelling.
+- Zeolites, MOFs, activated carbons  
+- Industrial OSR materials (Cerpotech AS)  
+</div>
 
 ---
 
-## ⚙️ Reactor Modelling & Process Simulation
+## ⚙️ <span class="fade-up">Reactor Modelling & Simulation</span>
 
-We build detailed reactor and process models to optimise performance and scale‑up:
+<div class="fade-in">
+We build detailed reactor and process models to optimise performance and scale‑up.
 
-- Packed‑bed and fluidised‑bed reactor modelling  
-- Redox kinetics and heat‑integration analysis  
+- Packed‑bed & fluidised‑bed modelling  
+- Redox kinetics & heat‑integration  
 - Aspen Plus® process simulation  
 - ANN‑enhanced thermo‑kinetic prediction  
-- System‑level optimisation for SAF and hydrogen pathways
-
-Models are validated using experimental data from lab‑scale and pilot‑scale rigs.
+</div>
 
 ---
 
-## 🌱 CO₂ Utilisation & Sustainable Fuels
+## 🌱 <span class="fade-up">CO₂ Utilisation & Sustainable Fuels</span>
 
-Our group develops carbon‑neutral fuel pathways using looping‑enabled syngas production:
+<div class="fade-in">
+We develop carbon‑neutral fuel pathways using looping‑enabled syngas production.
 
-- RWGS‑CL for modular CO₂‑to‑syngas conversion  
-- Fischer–Tropsch catalyst testing (with Prof Robert Güttel, Ulm University)  
-- Integration with SAF production routes  
-- Techno‑economic and lifecycle assessment of CO₂‑derived fuels
+- RWGS‑CL syngas generation  
+- Fischer–Tropsch catalyst testing  
+- SAF pathway integration  
+- Techno‑economic & lifecycle analysis  
+</div>
 
 ---
 
-## 🏭 Industrial Decarbonisation
+## 🏭 <span class="fade-up">Industrial Decarbonisation</span>
 
-We collaborate with industrial partners to deploy looping technologies in real systems:
+<div class="fade-in">
+We collaborate with industry to deploy looping technologies in real systems.
 
 - Blast‑furnace gas decarbonisation  
-- Cement and steel sector CO₂ capture  
-- High‑temperature looping for refinery and chemical plants  
-- System integration with DIR‑SOFC and membrane reactors
-
-Our work supports UK and EU net‑zero strategies through scalable, cost‑effective solutions.
+- Cement & steel CO₂ capture  
+- High‑temperature looping for refineries  
+- Integration with DIR‑SOFC & membrane reactors  
+</div>
 
 ---
 
-## 📚 Selected Publications
+## 📚 <span class="fade-up">Selected Publications</span>
 
-A full list is available on the **[Publications page](ca://s?q=Open_Publications_page)**.
+<div class="fade-in">
+A full list is available on the **[Publications](ca://s?q=Open_Publications_page)** page.
 
-- RWGS–CL integration (*Journal of CO₂ Utilization*, 2024)  
+- RWGS–CL integration (*JCOU*, 2024)  
 - Ca/Mn‑doped perovskite kinetics (*IJHE*, 2026)  
-- Carbon‑neutral looping using glycerol/methane (*Fuel*, 2023)  
+- Carbon‑neutral looping (*Fuel*, 2023)  
 - Fe‑based looping demonstration (*CEJ*, 2023)  
-- BFG decarbonisation (*ECM*, 2022)
+</div>
 
 ---
 
-## 🤝 Collaboration
+<style>
 
-We welcome collaboration across academia, industry, and government.  
-For enquiries, please visit the **[Contact page](ca://s?q=Open_Contact_page)**.
+/* --- Fade-in + Fade-up animations --- */
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 1.2s ease-out forwards;
+}
+
+.fade-up {
+  opacity: 0;
+  animation: fadeUp 1.2s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(25px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* --- Section hover lift --- */
+h2:hover, h3:hover {
+  transition: transform 0.25s ease;
+  transform: translateY(-4px);
+}
+
+</style>
