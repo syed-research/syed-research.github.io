@@ -100,10 +100,10 @@ We maintain high‑performance computing systems for:
 - Large‑scale parametric studies  
 
 Our computational tools enable design, optimisation, and scale‑up of advanced thermochemical processes
-
+</div>
 ---
 
-## 🖼️ Facility Gallery
+## 🖼️ ## 🔥 <span class="fade-up">Facility Gallery</span>
 
 <div class="fade-up"></div>
 
