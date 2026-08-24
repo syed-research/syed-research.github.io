@@ -1,3 +1,4 @@
+
 ---
 title: "People"
 layout: single
@@ -6,6 +7,7 @@ author_profile: false
 sidebar: false
 classes: wide
 toc: true
+toc_sticky: true
 toc_label: "Team Overview"
 toc_icon: "users"
 ---
