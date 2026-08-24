@@ -4,7 +4,6 @@ layout: single
 permalink: /publications/
 toc: true
 toc_label: "On this page"
-sidebar: false
 ---
 
 # <span class="fade-up">Publications</span>
@@ -18,7 +17,9 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <span class="pub-title">Kinetics of Ca/Mn‑Doped Perovskites for Chemical Looping</span><br>
+  <a class="pub-link-main" href="https://doi.org/xx.xxxx/ijhe.perovskite-2026" target="_blank">
+    <span class="pub-title">Kinetics of Ca/Mn‑Doped Perovskites for Chemical Looping</span>
+  </a><br>
   <span class="pub-meta"><em>International Journal of Hydrogen Energy</em>, 2026</span>
 </div>
 
@@ -31,7 +32,9 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <span class="pub-title">RWGS–CL Integration for Modular Syngas Production</span><br>
+  <a class="pub-link-main" href="https://doi.org/xx.xxxx/jcou.rwgscl-2024" target="_blank">
+    <span class="pub-title">RWGS–CL Integration for Modular Syngas Production</span>
+  </a><br>
   <span class="pub-meta"><em>Journal of CO₂ Utilization</em>, 2024</span>
 </div>
 
@@ -44,12 +47,16 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <span class="pub-title">Carbon‑Neutral Looping Using Glycerol/Methane Blends</span><br>
+  <a class="pub-link-main" href="https://doi.org/xx.xxxx/fuel.glycerol-looping-2023" target="_blank">
+    <span class="pub-title">Carbon‑Neutral Looping Using Glycerol/Methane Blends</span>
+  </a><br>
   <span class="pub-meta"><em>Fuel</em>, 2023</span>
 </div>
 
 <div class="pub-item">
-  <span class="pub-title">Fe‑Based Looping Demonstration for Industrial Decarbonisation</span><br>
+  <a class="pub-link-main" href="https://doi.org/xx.xxxx/cej.fe-looping-2023" target="_blank">
+    <span class="pub-title">Fe‑Based Looping Demonstration for Industrial Decarbonisation</span>
+  </a><br>
   <span class="pub-meta"><em>Chemical Engineering Journal</em>, 2023</span>
 </div>
 
@@ -62,7 +69,9 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <span class="pub-title">Blast‑Furnace Gas Decarbonisation via High‑Temperature Looping</span><br>
+  <a class="pub-link-main" href="https://doi.org/xx.xxxx/ecm.bfg-looping-2022" target="_blank">
+    <span class="pub-title">Blast‑Furnace Gas Decarbonisation via High‑Temperature Looping</span>
+  </a><br>
   <span class="pub-meta"><em>Energy Conversion & Management</em>, 2022</span>
 </div>
 
@@ -75,7 +84,9 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <span class="pub-title">Chemical Looping for CO₂ Utilisation: Materials, Reactors, and Pathways</span><br>
+  <a class="pub-link-main" href="https://publisher.com/book/chapter-chemical-looping-co2-utilisation" target="_blank">
+    <span class="pub-title">Chemical Looping for CO₂ Utilisation: Materials, Reactors, and Pathways</span>
+  </a><br>
   <span class="pub-meta"><em>In: Advances in Thermochemical Systems</em>, 2023</span>
 </div>
 
@@ -88,13 +99,17 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <span class="pub-title">High‑Temperature Redox Materials for CO₂ Conversion</span><br>
+  <a class="pub-link-main" href="https://conference.org/ghgt15/redox-materials-co2-conversion" target="_blank">
+    <span class="pub-title">High‑Temperature Redox Materials for CO₂ Conversion</span>
+  </a><br>
   <span class="pub-meta"><em>GHGT‑15</em>, 2022</span>
 </div>
 
 <div class="pub-item">
-  <span class="pub-title">ANN‑Enhanced Kinetic Modelling of Looping Systems</span><br>
-  <span class="pub-meta"><em>ICHEME Research Forum</em>, 2023</span>
+  <a class="pub-link-main" href="https://conference.org/icheme/ann-kinetic-modelling-looping" target="_blank">
+    <span class="pub-title">ANN‑Enhanced Kinetic Modelling of Looping Systems</span>
+  </a><br>
+  <span class="pub-meta"><em>IChemE Research Forum</em>, 2023</span>
 </div>
 
 </div>
@@ -106,7 +121,9 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <span class="pub-title">Chemical Looping for Modular Syngas Production</span><br>
+  <a class="pub-link-main" href="https://eprints.soton.ac.uk/xxxxxxx/" target="_blank">
+    <span class="pub-title">Chemical Looping for Modular Syngas Production</span>
+  </a><br>
   <span class="pub-meta"><em>PhD Thesis</em>, University of Southampton</span>
 </div>
 
@@ -116,9 +133,9 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 
 ## 🔗 <span class="fade-up">Related Pages</span>
 
-- **[Research](ca://s?q=Open_Research_page)**  
-- **[Projects](ca://s?q=Open_Projects_page)**  
-- **[People](ca://s?q=Open_People_page)**  
+- **[Research](/research/)**  
+- **[Projects](/projects/)**  
+- **[People](/people/)**  
 
 ---
 
@@ -151,6 +168,15 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 .pub-meta {
   font-size: 0.9em;
   color: #555;
+}
+
+.pub-link-main {
+  text-decoration: none;
+  color: inherit;
+}
+
+.pub-link-main:hover .pub-title {
+  text-decoration: underline;
 }
 
 /* Fade animations */
