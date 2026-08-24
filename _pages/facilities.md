@@ -103,7 +103,7 @@ Our computational tools enable design, optimisation, and scale‑up of advanced 
 </div>
 ---
 
-## 🖼️ ## 🔥 <span class="fade-up">Facility Gallery</span>
+## 🖼️ <span class="fade-up">Facility Gallery</span>
 
 <div class="fade-up"></div>
 
