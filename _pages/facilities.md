@@ -100,3 +100,52 @@ We maintain high‑performance computing systems for:
 - Large‑scale parametric studies  
 
 Our computational tools enable design, optimisation, and scale‑up of advanced thermochemical processes
+
+## 🖼️ <span class="fade-up">Facility Gallery</span>
+
+<div class="facility-gallery fade-in">
+
+  <figure class="facility-item">
+    <a href="/assets/images/SETUP.jpeg" data-lightbox="facility-gallery" data-title="Setup">
+      <img src="/assets/images/SETUP.jpeg" alt="Setup">
+    </a>
+    <figcaption>Setup</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <a href="/assets/images/AUTOCHEM%20iii.jpeg" data-lightbox="facility-gallery" data-title="AUTOCHEM III">
+      <img src="/assets/images/AUTOCHEM%20iii.jpeg" alt="AUTOCHEM III">
+    </a>
+    <figcaption>AUTOCHEM III</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <a href="/assets/images/BET.jpeg" data-lightbox="facility-gallery" data-title="BET Surface Area Analyzer">
+      <img src="/assets/images/BET.jpeg" alt="BET Surface Area Analyzer">
+    </a>
+    <figcaption>BET Surface Area Analyzer</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <a href="/assets/images/Mass%20Spec.jpeg" data-lightbox="facility-gallery" data-title="Mass Spectrometer">
+      <img src="/assets/images/Mass%20Spec.jpeg" alt="Mass Spectrometer">
+    </a>
+    <figcaption>Mass Spectrometer</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <a href="/assets/images/XRD.jpeg" data-lightbox="facility-gallery" data-title="XRD Diffractometer">
+      <img src="/assets/images/XRD.jpeg" alt="XRD Diffractometer">
+    </a>
+    <figcaption>XRD Diffractometer</figcaption>
+  </figure>
+
+  <figure class="facility-item">
+    <a href="/assets/images/Muffle.jpeg" data-lightbox="facility-gallery" data-title="Muffle Furnace">
+      <img src="/assets/images/Muffle.jpeg" alt="Muffle Furnace">
+    </a>
+    <figcaption>Muffle Furnace</figcaption>
+  </figure>
+
+</div>
+
