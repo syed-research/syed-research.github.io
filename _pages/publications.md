@@ -8,7 +8,7 @@ toc_label: "On this page"
 
 # <span class="fade-up">Publications</span>
 
-Our publications span chemical looping, CO₂ utilisation, reactor engineering, materials development, and sustainable fuel pathways. Below is a curated, year‑wise list of journal articles, conference papers, and book chapters.
+A complete list of journal articles, conference papers, book chapters, and theses authored or co‑authored by members of the CLIMATE Research Group.
 
 ---
 
@@ -17,10 +17,32 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <a class="pub-link-main" href="https://doi.org/xx.xxxx/ijhe.perovskite-2026" target="_blank">
-    <span class="pub-title">Kinetics of Ca/Mn‑Doped Perovskites for Chemical Looping</span>
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.ijhydene.2025.156475" target="_blank">
+    <span class="pub-title">Investigating the reduction thermo‑kinetics of Ca/Mn‑doped perovskite in chemical looping RWGS with ANN validation</span>
   </a><br>
   <span class="pub-meta"><em>International Journal of Hydrogen Energy</em>, 2026</span>
+</div>
+
+</div>
+
+---
+
+## 📘 <span class="fade-up">2025</span>
+
+<div class="pub-list fade-in">
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.jece.2025.119640" target="_blank">
+    <span class="pub-title">Performance Evaluation of Novel Ca/Mn‑Doped Perovskite as a Multifunctional Material in Chemical Looping RWGS</span>
+  </a><br>
+  <span class="pub-meta"><em>Journal of Environmental Chemical Engineering</em>, 2025</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.3390/inventions10050078" target="_blank">
+    <span class="pub-title">Comparative assessment of zeolites, MOFs, and activated carbons for CO₂ capture and sequestration</span>
+  </a><br>
+  <span class="pub-meta"><em>Inventions</em>, 2025</span>
 </div>
 
 </div>
@@ -32,8 +54,8 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <a class="pub-link-main" href="https://doi.org/xx.xxxx/jcou.rwgscl-2024" target="_blank">
-    <span class="pub-title">RWGS–CL Integration for Modular Syngas Production</span>
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.jcou.2024.102775" target="_blank">
+    <span class="pub-title">Experimental assessment of RWGS integrated with chemical looping for low‑carbon fuels</span>
   </a><br>
   <span class="pub-meta"><em>Journal of CO₂ Utilization</em>, 2024</span>
 </div>
@@ -47,17 +69,10 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <a class="pub-link-main" href="https://doi.org/xx.xxxx/fuel.glycerol-looping-2023" target="_blank">
-    <span class="pub-title">Carbon‑Neutral Looping Using Glycerol/Methane Blends</span>
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.fuel.2023.129001" target="_blank">
+    <span class="pub-title">Carbon‑neutral and carbon‑negative chemical looping using glycerol and methane</span>
   </a><br>
   <span class="pub-meta"><em>Fuel</em>, 2023</span>
-</div>
-
-<div class="pub-item">
-  <a class="pub-link-main" href="https://doi.org/xx.xxxx/cej.fe-looping-2023" target="_blank">
-    <span class="pub-title">Fe‑Based Looping Demonstration for Industrial Decarbonisation</span>
-  </a><br>
-  <span class="pub-meta"><em>Chemical Engineering Journal</em>, 2023</span>
 </div>
 
 </div>
@@ -69,73 +84,156 @@ Our publications span chemical looping, CO₂ utilisation, reactor engineering, 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <a class="pub-link-main" href="https://doi.org/xx.xxxx/ecm.bfg-looping-2022" target="_blank">
-    <span class="pub-title">Blast‑Furnace Gas Decarbonisation via High‑Temperature Looping</span>
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.cej.2022.134883" target="_blank">
+    <span class="pub-title">Chemical Looping Reforming for syngas generation at real process conditions</span>
+  </a><br>
+  <span class="pub-meta"><em>Chemical Engineering Journal</em>, 2022</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.enconman.2022.115252" target="_blank">
+    <span class="pub-title">Techno‑economic assessment of blast furnace gas pre‑combustion decarbonisation</span>
   </a><br>
   <span class="pub-meta"><em>Energy Conversion & Management</em>, 2022</span>
 </div>
 
+<div class="pub-item">
+  <a class="pub-link-main" href="https://pubs.rsc.org/en/content/articlehtml/2022/se/d2se00351a" target="_blank">
+    <span class="pub-title">1D and 2D models for chemical looping reforming with packed beds</span>
+  </a><br>
+  <span class="pub-meta"><em>Sustainable Energy & Fuels</em>, 2022</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.fuproc.2022.107475" target="_blank">
+    <span class="pub-title">Lab‑scale demonstration of CaCu chemical looping for H₂ production and CO₂ capture</span>
+  </a><br>
+  <span class="pub-meta"><em>Fuel Processing Technology</em>, 2022</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.cej.2022.139791" target="_blank">
+    <span class="pub-title">Thermochemical syngas generation via Fe‑based looping</span>
+  </a><br>
+  <span class="pub-meta"><em>Chemical Engineering Journal</em>, 2022</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://ssrn.com/abstract=4282681" target="_blank">
+    <span class="pub-title">Design of the CASOH pilot for decarbonising blast furnace gas</span>
+  </a><br>
+  <span class="pub-meta"><em>SSRN Technical Report</em>, 2022</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://ssrn.com/abstract=4276718" target="_blank">
+    <span class="pub-title">C4U Project: Advanced carbon capture for steel industries</span>
+  </a><br>
+  <span class="pub-meta"><em>SSRN Technical Report</em>, 2022</span>
+</div>
+
 </div>
 
 ---
 
-## 📘 <span class="fade-up">Book Chapters</span>
+## 📘 <span class="fade-up">2021</span>
 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <a class="pub-link-main" href="https://publisher.com/book/chapter-chemical-looping-co2-utilisation" target="_blank">
-    <span class="pub-title">Chemical Looping for CO₂ Utilisation: Materials, Reactors, and Pathways</span>
+  <a class="pub-link-main" href="https://ssrn.com/abstract=3817401" target="_blank">
+    <span class="pub-title">Ca–Cu chemical looping for CO₂ capture in steel mills</span>
   </a><br>
-  <span class="pub-meta"><em>In: Advances in Thermochemical Systems</em>, 2023</span>
+  <span class="pub-meta"><em>GHGT‑15 Proceedings</em>, 2021</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.jpowsour.2021.230564" target="_blank">
+    <span class="pub-title">CFD modelling of anode‑supported SOFCs</span>
+  </a><br>
+  <span class="pub-meta"><em>Journal of Power Sources</em>, 2021</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.jpowsour.2021.230857" target="_blank">
+    <span class="pub-title">Review of mathematical modelling of DIR‑SOFCs</span>
+  </a><br>
+  <span class="pub-meta"><em>Journal of Power Sources</em>, 2021</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.fuel.2021.120769" target="_blank">
+    <span class="pub-title">Comparative study of SMR, ATR, SE‑SMR & SE‑ATR</span>
+  </a><br>
+  <span class="pub-meta"><em>Fuel</em>, 2021</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.compchemeng.2020.107192" target="_blank">
+    <span class="pub-title">Small‑scale hydrogen via ATR: optimisation & RSM</span>
+  </a><br>
+  <span class="pub-meta"><em>Computers & Chemical Engineering</em>, 2021</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.jece.2021.105863" target="_blank">
+    <span class="pub-title">Sorption‑enhanced SMR using various CO₂ sorbents</span>
+  </a><br>
+  <span class="pub-meta"><em>Journal of Environmental Chemical Engineering</em>, 2021</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.joei.2021.02.008" target="_blank">
+    <span class="pub-title">Removal of benzene using non‑thermal plasma DBD</span>
+  </a><br>
+  <span class="pub-meta"><em>Journal of the Energy Institute</em>, 2021</span>
 </div>
 
 </div>
 
 ---
 
-## 📘 <span class="fade-up">Conference Papers</span>
+## 📘 <span class="fade-up">2019</span>
 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <a class="pub-link-main" href="https://conference.org/ghgt15/redox-materials-co2-conversion" target="_blank">
-    <span class="pub-title">High‑Temperature Redox Materials for CO₂ Conversion</span>
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.ijhydene.2018.11.169" target="_blank">
+    <span class="pub-title">H₂ production via SE‑SMR at reduced pressures</span>
   </a><br>
-  <span class="pub-meta"><em>GHGT‑15</em>, 2022</span>
-</div>
-
-<div class="pub-item">
-  <a class="pub-link-main" href="https://conference.org/icheme/ann-kinetic-modelling-looping" target="_blank">
-    <span class="pub-title">ANN‑Enhanced Kinetic Modelling of Looping Systems</span>
-  </a><br>
-  <span class="pub-meta"><em>IChemE Research Forum</em>, 2023</span>
+  <span class="pub-meta"><em>International Journal of Hydrogen Energy</em>, 2019</span>
 </div>
 
 </div>
 
 ---
 
-## 📘 <span class="fade-up">Theses & Dissertations</span>
+## 📘 <span class="fade-up">2017</span>
 
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <a class="pub-link-main" href="https://eprints.soton.ac.uk/xxxxxxx/" target="_blank">
-    <span class="pub-title">Chemical Looping for Modular Syngas Production</span>
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.ijhydene.2016.11.093" target="_blank">
+    <span class="pub-title">Kinetics study & modelling of SMR over NiO/Al₂O₃</span>
   </a><br>
-  <span class="pub-meta"><em>PhD Thesis</em>, University of Southampton</span>
+  <span class="pub-meta"><em>International Journal of Hydrogen Energy</em>, 2017</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.fuel.2017.03.072" target="_blank">
+    <span class="pub-title">High‑purity H₂ via SE‑CL‑SMR in packed beds</span>
+  </a><br>
+  <span class="pub-meta"><em>Fuel</em>, 2017</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.ijhydene.2017.05.222" target="_blank">
+    <span class="pub-title">H₂ production via SE‑SMR: packed bed modelling</span>
+  </a><br>
+  <span class="pub-meta"><em>International Journal of Hydrogen Energy</em>, 2017</span>
 </div>
 
 </div>
-
----
-
-## 🔗 <span class="fade-up">Related Pages</span>
-
-- **[Research](/research/)**  
-- **[Projects](/projects/)**  
-- **[People](/people/)**  
 
 ---
 
