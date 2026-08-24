@@ -17,7 +17,7 @@ A complete list of journal articles, conference papers, book chapters, and these
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <a class="pub-link-main" href="https://doi.org/10.1016/j.ijhydene.2025.156475" target="_blank">
+  <a class="pub-link-main" href="https://doi.org/10.1016/j.ijhydene.2026.156475" target="_blank">
     <span class="pub-title">Investigating the reduction thermo‑kinetics of Ca/Mn‑doped perovskite in chemical looping RWGS with ANN validation</span>
   </a><br>
   <span class="pub-meta"><em>International Journal of Hydrogen Energy</em>, 2026</span>
