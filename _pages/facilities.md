@@ -101,6 +101,8 @@ We maintain high‑performance computing systems for:
 
 Our computational tools enable design, optimisation, and scale‑up of advanced thermochemical processes
 
+---
+
 ## 🖼️ <span class="fade-up">Facility Gallery</span>
 
 <div class="facility-gallery fade-in">
