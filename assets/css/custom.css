@@ -1,10 +1,10 @@
-/* Remove default MM footer elements */
+/* Hide default Minimal Mistakes footer elements */
 .page__footer-follow,
 .page__footer-copyright {
   display: none !important;
 }
 
-/* Add clean academic footer */
+/* Keep your custom footer clean */
 .page__footer {
   text-align: center;
   padding: 12px 0;
@@ -21,6 +21,7 @@
   color: #555;
 }
 
+/* Facilities gallery layout */
 .facility-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -37,13 +38,13 @@
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
+/* Section divider */
 .section-divider {
   border: 0;
   height: 1px;
   background: linear-gradient(to right, #dcdcdc, #eaeaea, #dcdcdc);
   margin: 40px 0;
 }
-
 
 .facility-item img {
   width: 100%;
@@ -56,18 +57,4 @@
   font-weight: 600;
   color: #444;
 }
-/* Hide default Minimal Mistakes footer elements */
-.page__footer-follow,
-.page__footer-copyright {
-  display: none !important;
-}
 
-/* Keep your custom footer clean */
-.page__footer {
-  text-align: center;
-  padding: 12px 0;
-  font-size: 0.85em;
-  color: #666;
-  background: #f8f8f8;
-  border-top: 1px solid #e5e5e5;
-}
