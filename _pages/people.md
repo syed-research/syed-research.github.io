@@ -11,6 +11,7 @@ toc_icon: "users"
 ---
 
 
+
 # <span class="fade-up">Our Team</span>
 
 The CLIMATE Research Group brings together researchers working across thermochemical engineering, CO₂ utilisation, chemical looping, and sustainable energy systems. We combine experimental, computational, and analytical expertise to advance next‑generation decarbonisation technologies.
