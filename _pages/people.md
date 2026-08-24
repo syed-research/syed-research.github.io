@@ -9,147 +9,201 @@ toc_label: "Team Overview"
 toc_icon: "users"
 ---
 
-# Our Team
+# <span class="fade-up">Our Team</span>
 
 The CLIMATE Research Group brings together researchers working across thermochemical engineering, CO₂ utilisation, chemical looping, and sustainable energy systems. We combine experimental, computational, and analytical expertise to advance next‑generation decarbonisation technologies.
 
 ---
 
-## Principal Investigator
+## 👨‍🔬 <span class="fade-up">Principal Investigator</span>
 
-### Dr. Syed Zaheer Abbas  
-**Founder & Lead Investigator, CLIMATE Research Group**  
-[Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=UmP3K1cAAAAJ&view_op=list_works&sortby=pubdate)  
-[University Profile](https://www.southampton.ac.uk/people/62bw6h/doctor-syed-zaheer-abbas)
-
-Dr. Syed Zaheer Abbas leads research on **chemical looping**, **CO₂ utilisation**, **high‑temperature reaction engineering**, and **industrial decarbonisation**. His work spans materials development, reactor design, and multi‑scale modelling of thermochemical systems.
-
-Research interests include:
-
-- Chemical looping combustion & reforming  
-- CO₂ capture and utilisation  
-- High‑temperature materials and redox chemistry  
-- Thermochemical fuel production  
-- CFD modelling of multiphase reactors  
-- Kinetics and reaction engineering of thermochemical systems
-
----
-
-## Postdoctoral Researchers
-
-### Position Open  
-We are recruiting postdoctoral researchers in:
-
-- Chemical looping  
-- CO₂ utilisation  
-- High‑temperature materials  
-- CFD modelling  
-- Thermochemical reactor design  
-
-If you are interested in joining the group, please reach out via the **Contact** page.
+<div class="person-card fade-in">
+  <img src="/assets/images/people/syed.jpg" alt="Syed Zaheer Abbas" class="profile-img">
+  <div class="person-info">
+    <h3>Dr. Syed Zaheer Abbas</h3>
+    <p><strong>Founder & Lead Investigator, CLIMATE Research Group</strong></p>
+    <p>
+      <a href="https://scholar.google.co.uk/citations?hl=en&user=UmP3K1cAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> ·
+      <a href="https://www.southampton.ac.uk/people/62bw6h/doctor-syed-zaheer-abbas" target="_blank">University Profile</a>
+    </p>
+    <p>
+      Dr. Abbas leads research on chemical looping, CO₂ utilisation, high‑temperature reaction engineering, and industrial decarbonisation. His work spans materials development, reactor design, and multi‑scale modelling of thermochemical systems.
+    </p>
+  </div>
+</div>
 
 ---
 
-## PhD Researchers
+## 🧑‍🔬 <span class="fade-up">Postdoctoral Researchers</span>
 
-### Adnan Akhtar  
-**PhD Researcher (3rd Year)**  
-[Google Scholar](https://scholar.google.co.uk/citations?user=raYhhRYAAAAJ&hl=en&oi=ao)
-
-Adnan’s research focuses on **chemical looping**, **CO₂ utilisation**, and **high‑temperature reaction engineering**. His work includes:
-
-- Development and testing of oxygen‑carrier materials  
-- Fixed‑bed and TGA kinetic studies   
-- Integration of looping systems with CO₂ conversion pathways  
-
-He is currently in the third year of his PhD.
-
----
-
-### Fahad Maqbool 
-**PhD Researcher (1st Year)**  
-[Google Scholar](https://scholar.google.co.uk/citations?user=v7cztUwAAAAJ&hl=en&oi=ao)
-
-Fahad works on **thermochemical CO₂ conversion**, and **reactor‑scale modelling**. His interests include:
-
-- Chemical looping reverse water gas shift  
-- High‑temperature CO₂ utilisation routes  
-- Kinetic modelling of thermochemical reactions  
-- CFD‑supported reactor optimisation  
-
-He is currently in the first year of his PhD.
-
-
-### Position Open  
-We welcome PhD applicants with backgrounds in:
-
-- Chemical engineering  
-- Materials science  
-- Mechanical engineering  
-- Energy systems  
-- Computational modelling  
-
-Funding opportunities may be available for outstanding candidates.
+<div class="person-card fade-in">
+  <div class="person-info">
+    <h3>Position Open</h3>
+    <p>We are recruiting postdoctoral researchers in:</p>
+    <ul>
+      <li>Chemical looping</li>
+      <li>CO₂ utilisation</li>
+      <li>High‑temperature materials</li>
+      <li>CFD modelling</li>
+      <li>Thermochemical reactor design</li>
+    </ul>
+    <p>Interested candidates should visit the <a href="/contact/">Contact page</a>.</p>
+  </div>
+</div>
 
 ---
 
-## MSc & Undergraduate Researchers
+## 🎓 <span class="fade-up">PhD Researchers</span>
 
-We support MSc and undergraduate research projects in:
+<div class="people-grid fade-in">
 
-- Thermochemical reactor modelling  
-- CO₂ utilisation pathways  
-- Chemical looping materials  
-- High‑temperature kinetics  
-- Sustainable fuel production  
+  <div class="person-card lift">
+    <img src="/assets/images/people/adnan.jpg" alt="Adnan Akhtar" class="profile-img">
+    <div class="person-info">
+      <h3>Adnan Akhtar</h3>
+      <p><strong>PhD Researcher (3rd Year)</strong></p>
+      <p><a href="https://scholar.google.co.uk/citations?user=raYhhRYAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></p>
+      <p>Adnan works on chemical looping, CO₂ utilisation, and high‑temperature reaction engineering, focusing on oxygen‑carrier development, fixed‑bed studies, and TGA kinetics.</p>
+    </div>
+  </div>
 
-Students interested in joining the group should contact the PI.
+  <div class="person-card lift">
+    <img src="/assets/images/people/fahad.jpg" alt="Fahad Maqbool" class="profile-img">
+    <div class="person-info">
+      <h3>Fahad Maqbool</h3>
+      <p><strong>PhD Researcher (1st Year)</strong></p>
+      <p><a href="https://scholar.google.co.uk/citations?user=v7cztUwAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></p>
+      <p>Fahad focuses on thermochemical CO₂ conversion, reactor‑scale modelling, kinetic modelling, and CFD‑supported optimisation of high‑temperature systems.</p>
+    </div>
+  </div>
+
+</div>
+
+<div class="person-card fade-in">
+  <div class="person-info">
+    <h3>Position Open</h3>
+    <p>We welcome PhD applicants with backgrounds in chemical engineering, materials science, mechanical engineering, energy systems, and computational modelling.</p>
+  </div>
+</div>
 
 ---
 
-## Alumni
+## 🎓 <span class="fade-up">MSc & Undergraduate Researchers</span>
 
-This section will grow as the group expands.  
-Add names, roles, and project titles as your team develops.
+<div class="person-card fade-in">
+  <div class="person-info">
+    <p>We support MSc and undergraduate research projects in:</p>
+    <ul>
+      <li>Thermochemical reactor modelling</li>
+      <li>CO₂ utilisation pathways</li>
+      <li>Chemical looping materials</li>
+      <li>High‑temperature kinetics</li>
+      <li>Sustainable fuel production</li>
+    </ul>
+    <p>Students interested in joining the group should contact the PI.</p>
+  </div>
+</div>
 
 ---
 
-## Collaborators
+## 🧑‍🏫 <span class="fade-up">Collaborators</span>
 
-We collaborate with researchers across:
+<div class="person-card fade-in">
+  <div class="person-info">
+    <p>We collaborate with researchers across:</p>
+    <ul>
+      <li>Thermochemical engineering</li>
+      <li>CO₂ utilisation</li>
+      <li>Materials synthesis</li>
+      <li>Industrial decarbonisation</li>
+      <li>Energy systems modelling</li>
+    </ul>
+    <p>Collaborations are welcome — please get in touch.</p>
+  </div>
+</div>
 
-- Thermochemical engineering  
-- CO₂ utilisation  
-- Materials synthesis  
-- Industrial decarbonisation  
-- Energy systems modelling  
+---
 
-Collaborations are welcome — please get in touch.
-## Join Us
+## 🚀 <span class="fade-up">Join Us</span>
 
-We are always looking for motivated researchers to join the CLIMATE Research Group at the University of Southampton. Opportunities exist for:
+<div class="person-card fade-in">
+  <div class="person-info">
+    <p>We are always looking for motivated researchers to join the CLIMATE Research Group at the University of Southampton.</p>
 
-- PhD positions  
-- Postdoctoral research roles  
-- MSc dissertation projects  
-- Undergraduate research placements  
+    <h4>Opportunities</h4>
+    <ul>
+      <li>PhD positions</li>
+      <li>Postdoctoral roles</li>
+      <li>MSc dissertation projects</li>
+      <li>Undergraduate research placements</li>
+    </ul>
 
-### What We Look For
-We welcome applicants with backgrounds in:
+    <h4>How to Apply</h4>
+    <p>
+      Visit the <a href="/contact/">Contact page</a> or email Dr. Syed Zaheer Abbas.  
+      Include your CV and a short statement of research interests.
+    </p>
+  </div>
+</div>
 
-- Chemical engineering  
-- Materials science  
-- Mechanical engineering  
-- Energy systems  
-- Computational modelling  
-- Thermochemical reactor design  
+---
 
-### How to Apply
-If you are interested in joining the group:
+<style>
 
-- Visit the **Contact** page  
-- Email Dr. Syed Zaheer Abbas  
-- Include your CV and a short statement of research interests  
+/* Grid layout */
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 22px;
+  margin-top: 20px;
+}
 
-We encourage applications from candidates passionate about **chemical looping**, **CO₂ utilisation**, **high‑temperature materials**, and **sustainable energy systems**.
+/* Person card */
+.person-card {
+  background: #fafafa;
+  padding: 18px 22px;
+  border-radius: 12px;
+  border: 1px solid #e5e5e5;
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
 
+.person-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+}
+
+/* Profile image */
+.profile-img {
+  width: 95px;
+  height: 95px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #ddd;
+}
+
+/* Fade animations */
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 1.2s ease-out forwards;
+}
+
+.fade-up {
+  opacity: 0;
+  animation: fadeUp 1.2s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(25px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+</style>
