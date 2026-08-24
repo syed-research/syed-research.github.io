@@ -10,7 +10,7 @@ toc_label: "On this page"
 
 The CLIMATE Research Group advances low‑carbon energy systems through chemical looping, CO₂ utilisation, reactor engineering, and high‑temperature materials development. Our work integrates experiments, modelling, and process design to deliver scalable decarbonisation pathways.
 
----
+<hr class="section-divider">
 
 ## 🔥 <span class="fade-up">Chemical Looping Technologies</span>
 
@@ -23,7 +23,7 @@ We develop next‑generation looping systems for hydrogen production, CO₂ capt
 - Fe‑based looping for industrial decarbonisation  
 </div>
 
----
+<hr class="section-divider">
 
 ## 🧪 <span class="fade-up">Materials Development & Characterisation</span>
 
@@ -36,7 +36,7 @@ We design and evaluate advanced materials for looping and catalytic systems.
 - Industrial OSR materials (Cerpotech AS)  
 </div>
 
----
+<hr class="section-divider">
 
 ## ⚙️ <span class="fade-up">Reactor Modelling & Simulation</span>
 
@@ -49,7 +49,7 @@ We build detailed reactor and process models to optimise performance and scale�
 - ANN‑enhanced thermo‑kinetic prediction  
 </div>
 
----
+<hr class="section-divider">
 
 ## 🌱 <span class="fade-up">CO₂ Utilisation & Sustainable Fuels</span>
 
@@ -62,7 +62,7 @@ We develop carbon‑neutral fuel pathways using looping‑enabled syngas product
 - Techno‑economic & lifecycle analysis  
 </div>
 
----
+<hr class="section-divider">
 
 ## 🏭 <span class="fade-up">Industrial Decarbonisation</span>
 
@@ -75,7 +75,7 @@ We collaborate with industry to deploy looping technologies in real systems.
 - Integration with DIR‑SOFC & membrane reactors  
 </div>
 
----
+<hr class="section-divider">
 
 ## 📚 <span class="fade-up">Selected Publications</span>
 
