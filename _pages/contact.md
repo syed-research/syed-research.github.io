@@ -1,10 +1,9 @@
 ---
+title: "Contact"
 layout: single
 permalink: /contact/
 toc: false
 ---
-
-# Contact
 
 If you’d like to get in touch with the CLIMATE Research Group or discuss collaboration opportunities, please use the details below.
 
