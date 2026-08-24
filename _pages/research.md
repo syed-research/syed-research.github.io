@@ -2,113 +2,93 @@
 title: "Research"
 layout: single
 permalink: /research/
-author_profile: false
-sidebar: false
 toc: true
 toc_label: "On this page"
-toc_icon: "flask"
 ---
 
+# Research
 
-# Our Research
-
-The CLIMATE Research Group develops next‑generation thermochemical technologies for **CO₂ utilisation**, **chemical looping**, **industrial decarbonisation**, and **sustainable fuel generation**. Our work spans materials synthesis, reaction engineering, and computational modelling of high‑temperature systems.
-
----
-
-## Chemical Looping
-
-Chemical looping is a cyclic redox process that enables efficient fuel conversion, CO₂ separation, and oxygen delivery without direct air–fuel contact.  
-Our research includes:
-
-- Development of novel oxygen carriers  
-- Redox kinetics and reaction mechanisms  
-- Reactor design for hydrogen and syngas production  
-- Integration of looping systems with CO₂ utilisation pathways  
-
-Chemical looping forms the backbone of our thermochemical innovation strategy.
+Our work advances low‑carbon energy systems through chemical looping, CO₂ utilisation, and reactor engineering. The CLIMATE Research Group integrates materials development, reactor design, and process modelling to deliver scalable decarbonisation pathways.
 
 ---
 
-## CO₂ Capture & Utilisation
+## 🔥 Chemical Looping Technologies
 
-We investigate thermochemical pathways that convert CO₂ into valuable products such as syngas, methanol, carbonates, and solid carbon.  
-Our work focuses on:
+We develop next‑generation looping systems for hydrogen production, CO₂ capture, and syngas generation. Current focus areas include:
 
-- Looping‑based CO₂ capture systems  
-- Catalytic materials for CO₂ conversion  
-- High‑temperature sorbents  
-- Integrated capture–conversion processes  
+- **Oxygen‑carrier optimisation** for redox stability and high‑temperature cycling  
+- **Ca–Cu looping** for integrated H₂ production and CO₂ separation  
+- **RWGS–CL integration** for modular syngas generation  
+- **Fe‑based looping** for industrial decarbonisation applications  
 
-Our goal is to close the carbon loop through efficient utilisation technologies.
-
----
-
-## Industrial Decarbonisation
-
-Hard‑to‑abate sectors such as steel, cement, and chemicals require transformative technologies.  
-We develop:
-
-- Process‑intensified decarbonisation solutions  
-- Electrified thermochemical systems  
-- High‑temperature materials for low‑carbon operation  
-- Techno‑economic and lifecycle assessments  
-
-We aim to deliver scalable pathways for industrial emissions reduction.
+Our work spans fundamental thermo‑kinetics, packed‑bed reactor behaviour, and pilot‑scale demonstrations.
 
 ---
 
-## Materials for CO₂ Utilisation
+## 🧪 Materials Development & Characterisation
 
-Advanced materials are central to thermochemical performance.  
-We synthesise and characterise:
+We design and evaluate advanced materials for looping and catalytic systems:
 
-- Oxygen carriers  
-- Catalysts  
-- Sorbents  
-- Redox‑active solids  
+- Perovskites (Ca/Mn‑doped, Sr‑based)  
+- Ceria‑based oxygen carriers  
+- Zeolites, MOFs, activated carbons for CO₂ capture  
+- Industrial OSR materials (in collaboration with Cerpotech AS)
 
-Our synthesis methods include sol‑gel, impregnation, spray drying, and high‑temperature treatments.  
-We link material properties to reactor performance through kinetic and multi‑scale modelling.
+Techniques include TGA cycling, BET analysis, XRD, SEM, and ANN‑based kinetic modelling.
 
 ---
 
-## Kinetics & Reaction Engineering
+## ⚙️ Reactor Modelling & Process Simulation
 
-Understanding reaction kinetics is essential for designing efficient thermochemical systems.  
-We perform:
+We build detailed reactor and process models to optimise performance and scale‑up:
 
-- TGA experiments  
-- Fixed‑bed reactor studies  
-- Micro‑kinetic modelling  
-- Transport‑limited reaction analysis  
+- Packed‑bed and fluidised‑bed reactor modelling  
+- Redox kinetics and heat‑integration analysis  
+- Aspen Plus® process simulation  
+- ANN‑enhanced thermo‑kinetic prediction  
+- System‑level optimisation for SAF and hydrogen pathways
 
-These insights guide reactor design, CFD modelling, and process optimisation.
-
----
-
-## CFD of Chemical Looping Processes
-
-We use CFD to simulate multiphase flow, heat transfer, and reaction kinetics in chemical looping reactors.  
-Our models capture:
-
-- Gas–solid interactions  
-- Particle behaviour  
-- Redox chemistry  
-- Reactor hydrodynamics  
-
-CFD helps optimise reactor geometry, operating strategies, and scale‑up pathways.
+Models are validated using experimental data from lab‑scale and pilot‑scale rigs.
 
 ---
 
-## Sustainable Fuel Generation
+## 🌱 CO₂ Utilisation & Sustainable Fuels
 
-We explore thermochemical routes for producing hydrogen, syngas, and carbon‑neutral fuels using looping processes and CO₂ conversion.  
-Our work integrates:
+Our group develops carbon‑neutral fuel pathways using looping‑enabled syngas production:
 
-- Renewable energy inputs  
-- High‑temperature reactors  
-- Catalytic upgrading  
-- Carbon‑neutral fuel pathways  
+- RWGS‑CL for modular CO₂‑to‑syngas conversion  
+- Fischer–Tropsch catalyst testing (with Prof Robert Güttel, Ulm University)  
+- Integration with SAF production routes  
+- Techno‑economic and lifecycle assessment of CO₂‑derived fuels
 
-We aim to develop sustainable fuels with minimal environmental impact.
+---
+
+## 🏭 Industrial Decarbonisation
+
+We collaborate with industrial partners to deploy looping technologies in real systems:
+
+- Blast‑furnace gas decarbonisation  
+- Cement and steel sector CO₂ capture  
+- High‑temperature looping for refinery and chemical plants  
+- System integration with DIR‑SOFC and membrane reactors
+
+Our work supports UK and EU net‑zero strategies through scalable, cost‑effective solutions.
+
+---
+
+## 📚 Selected Publications
+
+A full list is available on the **[Publications page](ca://s?q=Open_Publications_page)**.
+
+- RWGS–CL integration (*Journal of CO₂ Utilization*, 2024)  
+- Ca/Mn‑doped perovskite kinetics (*IJHE*, 2026)  
+- Carbon‑neutral looping using glycerol/methane (*Fuel*, 2023)  
+- Fe‑based looping demonstration (*CEJ*, 2023)  
+- BFG decarbonisation (*ECM*, 2022)
+
+---
+
+## 🤝 Collaboration
+
+We welcome collaboration across academia, industry, and government.  
+For enquiries, please visit the **[Contact page](ca://s?q=Open_Contact_page)**.
