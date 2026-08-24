@@ -166,10 +166,6 @@ Include your CV and a short statement of research interests.
   margin-top: 18px;
 }
 
-.page__content p, 
-.page__content ul {
-  font-size: 16px;
-  line-height: 1.55;
-}
+
 
 </style>
