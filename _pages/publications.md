@@ -228,13 +228,21 @@ A complete list of journal articles, conference papers, book chapters, and techn
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <a class="pub-link-main" href="https://publisher.com/book/chapter-chemical-looping-co2-utilisation" target="_blank">
+  <a class="pub-link-main" href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B978044326659100008X" target="_blank">
     <span class="pub-title">Chemical Looping for CO₂ Utilisation: Materials, Reactors, and Pathways</span>
   </a><br>
-  <span class="pub-meta"><em>In: Advances in Thermochemical Systems</em>, 2023</span>
+  <span class="pub-meta"><em>In: Advances in Thermochemical Systems</em>, Elsevier, 2023</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443138768000100" target="_blank">
+    <span class="pub-title">Emerging Chemical Looping Technologies for Low‑Carbon Fuel Production</span>
+  </a><br>
+  <span class="pub-meta"><em>In: Advances in Chemical Looping Technologies</em>, Elsevier, 2024</span>
 </div>
 
 </div>
+
 
 ---
 
