@@ -18,7 +18,6 @@ The CLIMATE Research Group brings together researchers working across thermochem
 ## 👨‍🔬 <span class="fade-up">Principal Investigator</span>
 
 <div class="person-card fade-in">
-  <img src="/assets/images/people/syed.jpg" alt="Syed Zaheer Abbas" class="profile-img">
   <div class="person-info">
     <h3>Dr. Syed Zaheer Abbas</h3>
     <p><strong>Founder & Lead Investigator, CLIMATE Research Group</strong></p>
@@ -58,7 +57,6 @@ The CLIMATE Research Group brings together researchers working across thermochem
 <div class="people-grid fade-in">
 
   <div class="person-card lift">
-    <img src="/assets/images/people/adnan.jpg" alt="Adnan Akhtar" class="profile-img">
     <div class="person-info">
       <h3>Adnan Akhtar</h3>
       <p><strong>PhD Researcher (3rd Year)</strong></p>
@@ -68,7 +66,6 @@ The CLIMATE Research Group brings together researchers working across thermochem
   </div>
 
   <div class="person-card lift">
-    <img src="/assets/images/people/fahad.jpg" alt="Fahad Maqbool" class="profile-img">
     <div class="person-info">
       <h3>Fahad Maqbool</h3>
       <p><strong>PhD Researcher (1st Year)</strong></p>
@@ -165,8 +162,8 @@ The CLIMATE Research Group brings together researchers working across thermochem
   border-radius: 12px;
   border: 1px solid #e5e5e5;
   display: flex;
-  gap: 18px;
-  align-items: flex-start;
+  flex-direction: column;
+  gap: 12px;
   margin-bottom: 20px;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
@@ -174,15 +171,6 @@ The CLIMATE Research Group brings together researchers working across thermochem
 .person-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 8px 18px rgba(0,0,0,0.12);
-}
-
-/* Profile image */
-.profile-img {
-  width: 95px;
-  height: 95px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid #ddd;
 }
 
 /* Fade animations */
