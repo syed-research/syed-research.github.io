@@ -8,7 +8,7 @@ toc_label: "On this page"
 
 # <span class="fade-up">Publications</span>
 
-A complete list of journal articles, conference papers, book chapters, and theses authored or co‑authored by members of the CLIMATE Research Group.
+A complete list of journal articles, conference papers, book chapters, and technical reports authored or co‑authored by members of the CLIMATE Research Group.
 
 ---
 
@@ -18,7 +18,7 @@ A complete list of journal articles, conference papers, book chapters, and these
 
 <div class="pub-item">
   <a class="pub-link-main" href="https://doi.org/10.1016/j.ijhydene.2026.156475" target="_blank">
-    <span class="pub-title">Investigating the reduction thermo‑kinetics of Ca/Mn‑doped perovskite in chemical looping RWGS with ANN validation</span>
+    <span class="pub-title">Reduction thermo‑kinetics of Ca/Mn‑doped perovskite in chemical looping RWGS with ANN validation</span>
   </a><br>
   <span class="pub-meta"><em>International Journal of Hydrogen Energy</em>, 2026</span>
 </div>
@@ -33,14 +33,14 @@ A complete list of journal articles, conference papers, book chapters, and these
 
 <div class="pub-item">
   <a class="pub-link-main" href="https://doi.org/10.1016/j.jece.2025.119640" target="_blank">
-    <span class="pub-title">Performance Evaluation of Novel Ca/Mn‑Doped Perovskite as a Multifunctional Material in Chemical Looping RWGS</span>
+    <span class="pub-title">Performance Evaluation of Novel Ca/Mn‑Doped Perovskite in Chemical Looping RWGS</span>
   </a><br>
   <span class="pub-meta"><em>Journal of Environmental Chemical Engineering</em>, 2025</span>
 </div>
 
 <div class="pub-item">
   <a class="pub-link-main" href="https://doi.org/10.3390/inventions10050078" target="_blank">
-    <span class="pub-title">Comparative assessment of zeolites, MOFs, and activated carbons for CO₂ capture and sequestration</span>
+    <span class="pub-title">Comparative assessment of zeolites, MOFs, and activated carbons for CO₂ capture</span>
   </a><br>
   <span class="pub-meta"><em>Inventions</em>, 2025</span>
 </div>
@@ -55,7 +55,7 @@ A complete list of journal articles, conference papers, book chapters, and these
 
 <div class="pub-item">
   <a class="pub-link-main" href="https://doi.org/10.1016/j.jcou.2024.102775" target="_blank">
-    <span class="pub-title">Experimental assessment of RWGS integrated with chemical looping for low‑carbon fuels</span>
+    <span class="pub-title">Experimental assessment of RWGS integrated with chemical looping</span>
   </a><br>
   <span class="pub-meta"><em>Journal of CO₂ Utilization</em>, 2024</span>
 </div>
@@ -85,28 +85,28 @@ A complete list of journal articles, conference papers, book chapters, and these
 
 <div class="pub-item">
   <a class="pub-link-main" href="https://doi.org/10.1016/j.cej.2022.134883" target="_blank">
-    <span class="pub-title">Chemical Looping Reforming for syngas generation at real process conditions</span>
+    <span class="pub-title">Chemical Looping Reforming at real process conditions</span>
   </a><br>
   <span class="pub-meta"><em>Chemical Engineering Journal</em>, 2022</span>
 </div>
 
 <div class="pub-item">
   <a class="pub-link-main" href="https://doi.org/10.1016/j.enconman.2022.115252" target="_blank">
-    <span class="pub-title">Techno‑economic assessment of blast furnace gas pre‑combustion decarbonisation</span>
+    <span class="pub-title">Techno‑economic assessment of blast furnace gas decarbonisation</span>
   </a><br>
   <span class="pub-meta"><em>Energy Conversion & Management</em>, 2022</span>
 </div>
 
 <div class="pub-item">
   <a class="pub-link-main" href="https://pubs.rsc.org/en/content/articlehtml/2022/se/d2se00351a" target="_blank">
-    <span class="pub-title">1D and 2D models for chemical looping reforming with packed beds</span>
+    <span class="pub-title">1D & 2D models for chemical looping reforming</span>
   </a><br>
   <span class="pub-meta"><em>Sustainable Energy & Fuels</em>, 2022</span>
 </div>
 
 <div class="pub-item">
   <a class="pub-link-main" href="https://doi.org/10.1016/j.fuproc.2022.107475" target="_blank">
-    <span class="pub-title">Lab‑scale demonstration of CaCu chemical looping for H₂ production and CO₂ capture</span>
+    <span class="pub-title">Lab‑scale CaCu chemical looping demonstration</span>
   </a><br>
   <span class="pub-meta"><em>Fuel Processing Technology</em>, 2022</span>
 </div>
@@ -116,20 +116,6 @@ A complete list of journal articles, conference papers, book chapters, and these
     <span class="pub-title">Thermochemical syngas generation via Fe‑based looping</span>
   </a><br>
   <span class="pub-meta"><em>Chemical Engineering Journal</em>, 2022</span>
-</div>
-
-<div class="pub-item">
-  <a class="pub-link-main" href="https://ssrn.com/abstract=4282681" target="_blank">
-    <span class="pub-title">Design of the CASOH pilot for decarbonising blast furnace gas</span>
-  </a><br>
-  <span class="pub-meta"><em>SSRN Technical Report</em>, 2022</span>
-</div>
-
-<div class="pub-item">
-  <a class="pub-link-main" href="https://ssrn.com/abstract=4276718" target="_blank">
-    <span class="pub-title">C4U Project: Advanced carbon capture for steel industries</span>
-  </a><br>
-  <span class="pub-meta"><em>SSRN Technical Report</em>, 2022</span>
 </div>
 
 </div>
@@ -231,6 +217,50 @@ A complete list of journal articles, conference papers, book chapters, and these
     <span class="pub-title">H₂ production via SE‑SMR: packed bed modelling</span>
   </a><br>
   <span class="pub-meta"><em>International Journal of Hydrogen Energy</em>, 2017</span>
+</div>
+
+</div>
+
+---
+
+## 📘 <span class="fade-up">Book Chapters</span>
+
+<div class="pub-list fade-in">
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://publisher.com/book/chapter-chemical-looping-co2-utilisation" target="_blank">
+    <span class="pub-title">Chemical Looping for CO₂ Utilisation: Materials, Reactors, and Pathways</span>
+  </a><br>
+  <span class="pub-meta"><em>In: Advances in Thermochemical Systems</em>, 2023</span>
+</div>
+
+</div>
+
+---
+
+## 📘 <span class="fade-up">Conference Papers & Technical Reports</span>
+
+<div class="pub-list fade-in">
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://ssrn.com/abstract=3817401" target="_blank">
+    <span class="pub-title">A Ca–Cu Chemical Loop Process for CO₂ Capture in Steel Mills</span>
+  </a><br>
+  <span class="pub-meta"><em>GHGT‑15</em>, 2021</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://ssrn.com/abstract=4282681" target="_blank">
+    <span class="pub-title">Design of the CASOH Pilot for Blast Furnace Gas Decarbonisation</span>
+  </a><br>
+  <span class="pub-meta"><em>SSRN Technical Report</em>, 2022</span>
+</div>
+
+<div class="pub-item">
+  <a class="pub-link-main" href="https://ssrn.com/abstract=4276718" target="_blank">
+    <span class="pub-title">C4U Project: Advanced Carbon Capture for Steel Industries</span>
+  </a><br>
+  <span class="pub-meta"><em>SSRN Technical Report</em>, 2022</span>
 </div>
 
 </div>
