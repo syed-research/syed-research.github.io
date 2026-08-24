@@ -58,3 +58,10 @@
   color: #444;
 }
 
+.homepage-tagline {
+  font-size: 1.25em;
+  text-align: center;
+  margin-top: 18px;
+  color: #444;
+  font-weight: 500;
+}
