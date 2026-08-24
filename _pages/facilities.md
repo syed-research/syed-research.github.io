@@ -4,7 +4,6 @@ layout: single
 permalink: /facilities/
 author_profile: false
 sidebar: false
-classes: wide
 toc: true
 toc_label: "On this page"
 toc_icon: "cogs"
@@ -100,51 +99,4 @@ We maintain high‑performance computing systems for:
 - Reaction‑kinetics integration  
 - Large‑scale parametric studies  
 
-Our computational tools enable design, optimisation, and scale‑up of advanced thermochemical processes.
-</div>
-
----
-
-## 📘 <span class="fade-up">Summary</span>
-
-<div class="fade-in">
-Together, these facilities allow the CLIMATE Research Group to perform **end‑to‑end research** — from material synthesis and characterisation to reactor testing, gas analysis, and computational modelling.
-</div>
-
----
-
-<style>
-
-/* Fade animations */
-.fade-in {
-  opacity: 0;
-  animation: fadeIn 1.2s ease-out forwards;
-}
-
-.fade-up {
-  opacity: 0;
-  animation: fadeUp 1.2s ease-out forwards;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
-}
-
-@keyframes fadeUp {
-  from { opacity: 0; transform: translateY(25px); }
-  to   { opacity: 1; transform: translateY(0); }
-}
-
-/* Academic spacing */
-.page__content h3 {
-  margin-top: 18px;
-}
-
-.page__content p, 
-.page__content ul {
-  font-size: 16px;
-  line-height: 1.55;
-}
-
-</style>
+Our computational tools enable design, optimisation, and scale‑up of advanced thermochemical processes
