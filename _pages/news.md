@@ -8,9 +8,6 @@ sidebar: false
 classes: no-author
 ---
 
-
-# News
-
 Updates from the CLIMATE Research Group, School of Chemistry and Chemical Engineering, University of Southampton — covering publications, conferences, awards, and project milestones.
 
 ---
