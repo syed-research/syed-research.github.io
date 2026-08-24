@@ -30,38 +30,6 @@ excerpt: "Advancing CO₂ utilisation, chemical looping, and sustainable thermoc
   </div>
 
 </div>
-<hr class="section-divider">
-
-<div class="homepage-grid fade-in">
-
-  <!-- Card 1: SETUP -->
-  <div class="homepage-card">
-    <a href="/facilities/">
-      <img src="/assets/images/SETUP.jpeg" alt="Chemical Looping Setup">
-      <h3>Chemical Looping Reactor Setup</h3>
-      <p>High‑temperature multi‑cycle reactor platform for CO₂ capture, syngas generation, and redox studies.</p>
-    </a>
-  </div>
-
-  <!-- Card 2: GRAPH 1 -->
-  <div class="homepage-card">
-    <a href="/research/">
-      <img src="/assets/images/GRAPH%201.jpg" alt="Graph 1">
-      <h3>Reaction Kinetics & Performance</h3>
-      <p>Experimental and modelled redox behaviour showing multi‑cycle stability and oxygen‑carrier performance.</p>
-    </a>
-  </div>
-
-  <!-- Card 3: GRAPH 2 -->
-  <div class="homepage-card">
-    <a href="/research/">
-      <img src="/assets/images/GRAPH%202.jpg" alt="Graph 2">
-      <h3>Process Simulation & Analysis</h3>
-      <p>CFD and process‑level modelling for reactor optimisation, heat integration, and scale‑up studies.</p>
-    </a>
-  </div>
-
-</div>
 
 ---
 
