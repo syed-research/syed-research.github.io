@@ -4,11 +4,8 @@ layout: single
 permalink: /people/
 author_profile: false
 sidebar: false
-classes: wide
 toc: true
-toc_sticky: true
 toc_label: "Team Overview"
-toc_icon: "users"
 ---
 
 # <span class="fade-up">Our Team</span>
