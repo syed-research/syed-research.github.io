@@ -48,3 +48,18 @@
   font-weight: 600;
   color: #444;
 }
+/* Hide default Minimal Mistakes footer elements */
+.page__footer-follow,
+.page__footer-copyright {
+  display: none !important;
+}
+
+/* Keep your custom footer clean */
+.page__footer {
+  text-align: center;
+  padding: 12px 0;
+  font-size: 0.85em;
+  color: #666;
+  background: #f8f8f8;
+  border-top: 1px solid #e5e5e5;
+}
