@@ -11,6 +11,11 @@
     experimental innovation, reactor modelling, and next‑generation materials development.
   </p>
 
+  <!-- ⭐ NEW TAGLINE -->
+  <p class="homepage-tagline fade-up">
+    Innovating chemical looping and CO₂ utilisation for next‑generation clean energy.
+  </p>
+
   <div style="margin-top:25px;">
     <a href="/research/" class="btn btn--primary" style="margin-right:10px;">Our Research</a>
     <a href="/projects/" class="btn btn--info" style="margin-right:10px;">Projects</a>
