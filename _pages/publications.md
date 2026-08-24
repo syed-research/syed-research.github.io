@@ -6,7 +6,7 @@ toc: true
 toc_label: "On this page"
 ---
 
-# <span class="fade-up">Publications</span>
+# <span class="fade-up">List of Publications</span>
 
 A complete list of journal articles, conference papers, book chapters, and technical reports authored or co‑authored by members of the CLIMATE Research Group.
 
