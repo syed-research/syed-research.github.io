@@ -6,7 +6,7 @@ toc: true
 toc_label: "On this page"
 ---
 
-# Research
+# Research Interests
 
 Our work advances low‑carbon energy systems through chemical looping, CO₂ utilisation, and reactor engineering. The CLIMATE Research Group integrates materials development, reactor design, and process modelling to deliver scalable decarbonisation pathways.
 
