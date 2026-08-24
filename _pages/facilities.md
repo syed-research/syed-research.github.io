@@ -103,51 +103,52 @@ Our computational tools enable design, optimisation, and scale‑up of advanced 
 
 ---
 
-## 🖼️ <span class="fade-up">Facility Gallery</span>
+## 🖼️ Facility Gallery
+
+<div class="fade-up"></div>
 
 <div class="facility-gallery fade-in">
 
   <figure class="facility-item">
-    <a href="/assets/images/SETUP.jpeg" data-lightbox="facility-gallery" data-title="Setup">
+    <a href="/assets/images/SETUP.jpeg" data-lightbox="facility-gallery" data-title="Complete reactor setup for multi-cycle chemical looping experiments">
       <img src="/assets/images/SETUP.jpeg" alt="Setup">
     </a>
-    <figcaption>Setup</figcaption>
+    <figcaption>Complete reactor setup for multi-cycle chemical looping experiments</figcaption>
   </figure>
 
   <figure class="facility-item">
-    <a href="/assets/images/AUTOCHEM%20iii.jpeg" data-lightbox="facility-gallery" data-title="AUTOCHEM III">
+    <a href="/assets/images/AUTOCHEM%20iii.jpeg" data-lightbox="facility-gallery" data-title="AUTOCHEM III system for TPO, TPR, and TPD analysis">
       <img src="/assets/images/AUTOCHEM%20iii.jpeg" alt="AUTOCHEM III">
     </a>
-    <figcaption>AUTOCHEM III</figcaption>
+    <figcaption>AUTOCHEM III system for TPO, TPR, and TPD analysis</figcaption>
   </figure>
 
   <figure class="facility-item">
-    <a href="/assets/images/BET.jpeg" data-lightbox="facility-gallery" data-title="BET Surface Area Analyzer">
+    <a href="/assets/images/BET.jpeg" data-lightbox="facility-gallery" data-title="BET analyzer for surface area and porosity measurements">
       <img src="/assets/images/BET.jpeg" alt="BET Surface Area Analyzer">
     </a>
-    <figcaption>BET Surface Area Analyzer</figcaption>
+    <figcaption>BET analyzer for surface area and porosity measurements</figcaption>
   </figure>
 
   <figure class="facility-item">
-    <a href="/assets/images/Mass%20Spec.jpeg" data-lightbox="facility-gallery" data-title="Mass Spectrometer">
+    <a href="/assets/images/Mass%20Spec.jpeg" data-lightbox="facility-gallery" data-title="Mass spectrometer for real-time gas analysis">
       <img src="/assets/images/Mass%20Spec.jpeg" alt="Mass Spectrometer">
     </a>
-    <figcaption>Mass Spectrometer</figcaption>
+    <figcaption>Mass spectrometer for real-time gas analysis</figcaption>
   </figure>
 
   <figure class="facility-item">
-    <a href="/assets/images/XRD.jpeg" data-lightbox="facility-gallery" data-title="XRD Diffractometer">
+    <a href="/assets/images/XRD.jpeg" data-lightbox="facility-gallery" data-title="XRD diffractometer for phase identification">
       <img src="/assets/images/XRD.jpeg" alt="XRD Diffractometer">
     </a>
-    <figcaption>XRD Diffractometer</figcaption>
+    <figcaption>XRD diffractometer for phase identification</figcaption>
   </figure>
 
   <figure class="facility-item">
-    <a href="/assets/images/Muffle.jpeg" data-lightbox="facility-gallery" data-title="Muffle Furnace">
+    <a href="/assets/images/Muffle.jpeg" data-lightbox="facility-gallery" data-title="High-temperature muffle furnace for material synthesis">
       <img src="/assets/images/Muffle.jpeg" alt="Muffle Furnace">
     </a>
-    <figcaption>Muffle Furnace</figcaption>
+    <figcaption>High-temperature muffle furnace for material synthesis</figcaption>
   </figure>
 
 </div>
-
