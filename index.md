@@ -15,7 +15,7 @@ header:
 
 <div class="fade-in" style="text-align:center; padding: 40px 0;">
 
-  <img src="/assets/images/logo.png" alt="CLIMATE Crest Logo" width="240" class="fade-up" style="margin-bottom:20px;">
+  <img src="/assets/images/logo.png" alt="CLIMATE Crest Logo" width="360" class="fade-up" style="margin-bottom:20px;">
 
   <h1 class="fade-up" style="font-size:2.2em; margin-bottom:10px; font-weight:600;">
     CLIMATE Research Group
