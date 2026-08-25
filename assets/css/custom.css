@@ -66,9 +66,14 @@
   font-weight: 500;
 }
 /* Force banner overlay logo to scale properly */
-.page__hero--overlay .page__hero-image img {
-    max-height: 340px !important;   /* increase this number to make the logo bigger */
-    margin-bottom: 5px !important;  /* reduces the gap between logo and title */
-    margin-top: 10px !important;    /* pulls logo closer to the banner */
+.page__hero--overlay .page__hero-image img.overlay-logo {
+    max-height: 360px !important;
+    width: auto !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
 }
+.page__hero--overlay img {
+    max-height: 360px !important;
+}
+
 
