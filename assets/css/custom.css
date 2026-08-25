@@ -132,3 +132,6 @@
 .page__hero--overlay .page__title {
     font-weight: 700 !important;
 }
+.page__hero--overlay {
+    backdrop-filter: blur(2px);
+}
