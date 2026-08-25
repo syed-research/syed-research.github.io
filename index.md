@@ -5,7 +5,8 @@ excerpt: "Chemical Looping for Industrial Materials, Aviation Transition & Therm
 
 header:
   overlay_image: /assets/images/banner.jpg
-  overlay_filter: 0.2
+  overlay_filter: 0.30
+  overlay_color: "#003049"
   overlay_logo: /assets/images/logo-climate.png
   overlay_logo_height: 120
 ---
