@@ -165,3 +165,13 @@
     border-bottom: 2px solid #003049;
     color: #001f2b;
 }
+/* Make headings clickable and modern */
+.home-cards h3 a {
+    text-decoration: none;
+    color: #003049;
+    transition: color 0.2s ease;
+}
+
+.home-cards h3 a:hover {
+    color: #001f2b;
+}
