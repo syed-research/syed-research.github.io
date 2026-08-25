@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.30
   overlay_color: "#003049"
-  overlay_logo: /assets/images/logo-climate.png
+  overlay_logo: /assets/images/logo.png
   overlay_logo_height: 120
 ---
 
