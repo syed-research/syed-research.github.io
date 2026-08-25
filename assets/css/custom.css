@@ -133,5 +133,5 @@
     font-weight: 700 !important;
 }
 .page__hero--overlay {
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(4px);
 }
