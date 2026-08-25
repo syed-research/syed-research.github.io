@@ -28,7 +28,7 @@ header:
 
   <div class="fade-up" style="margin-top:25px;">
     <a href="/research/" class="btn btn--primary" style="margin-right:10px;">Research</a>
-    <a href="/projects/" class="btn btn--info" style="margin-right:10px;">Projects</a>
+   <a href="/facilities/" class="btn btn--primary">Facilities</a>
     <a href="/people/" class="btn btn--success">Team</a>
   </div>
 
