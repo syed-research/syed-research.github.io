@@ -135,3 +135,33 @@
 .page__hero--overlay {
     backdrop-filter: blur(4px);
 }
+/* --- Modern quick-access cards --- */
+.home-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 32px;
+    margin-top: 40px;
+}
+
+.home-cards h3 {
+    margin-bottom: 8px;
+    font-weight: 700;
+}
+
+.home-cards p {
+    margin-bottom: 12px;
+    color: #444;
+}
+
+.home-cards a {
+    font-weight: 600;
+    text-decoration: none;
+    color: #003049;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.home-cards a:hover {
+    border-bottom: 2px solid #003049;
+    color: #001f2b;
+}
