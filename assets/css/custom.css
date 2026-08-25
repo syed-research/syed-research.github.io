@@ -197,3 +197,12 @@
     height: auto !important;
     overflow: visible !important;
 }
+/* Disable sticky behaviour for the right-hand TOC */
+.page__sidebar {
+    position: static !important;
+    top: auto !important;
+}
+.page__sidebar .sticky {
+    position: static !important;
+    top: auto !important;
+}
