@@ -4,9 +4,8 @@ title: "CLIMATE Research Group"
 excerpt: "Chemical Looping for Industrial Materials, Aviation Transition & Thermochemical Energy Systems"
 
 header:
-  overlay_image: /assets/images/banner.jpg
-  overlay_filter: 0.30
-  overlay_color: "#003049"
+  overlay_image: /assets/images/Banner.jpg
+  overlay_filter: 0.40
   overlay_logo: /assets/images/logo.png
   overlay_logo_height: 100
   classes: wide
