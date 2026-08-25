@@ -61,24 +61,21 @@ header:
 
 ---
 
-## 👥 People
-Meet the researchers driving innovation in thermochemical engineering.
+<div class="home-cards">
 
-👉 **[People](ca://s?q=Open_People_page)**
+### 👥 People  
+Meet the researchers driving innovation in thermochemical engineering.  
+**[People →](/people/)**
 
----
+### 📄 Publications  
+Explore our journal articles, conference papers, theses, and preprints.  
+**[Publications →](/publications/)**
 
-## 📚 Publications
-Explore our journal articles, conference papers, theses, and preprints.
+### ✉️ Contact  
+For collaborations or enquiries, reach out via email or visit our laboratory.  
+**[Contact →](/contact/)**
 
-👉 **[Publications](ca://s?q=Open_Publications_page)**
-
----
-
-## 📬 Contact
-For collaborations or enquiries, reach out via email or visit our laboratory.
-
-👉 **[Contact](ca://s?q=Open_Contact_page)**
+</div>
 
 ---
 
