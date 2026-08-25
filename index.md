@@ -8,7 +8,8 @@ header:
   overlay_filter: 0.30
   overlay_color: "#003049"
   overlay_logo: /assets/images/logo.png
-  overlay_logo_height: 240
+  overlay_logo_height: 300
+  classes: wide
 ---
 
 
