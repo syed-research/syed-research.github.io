@@ -96,12 +96,30 @@
 /* Make homepage buttons blue */
 .home .btn,
 .home a.btn {
-    background-color: #0066cc !important;   /* strong academic blue */
+    background-color: #005bbb !important;   /* strong academic blue */
     color: #fff !important;                  /* white text */
-    border-color: #0066cc !important;
+    border-color: #005bbb !important;
 }
 
 /* Optional: blue hover effect */
+.home .btn:hover,
+.home a.btn:hover {
+    background-color: #004a99 !important;
+    border-color: #004a99 !important;
+}
+/* Make homepage buttons equal width */
+.home .btn,
+.home a.btn {
+    display: inline-block;
+    width: 180px;                 /* adjust this number to your preferred width */
+    text-align: center;
+    margin: 8px;                  /* spacing between buttons */
+    background-color: #005bbb !important;  /* your blue color */
+    color: #fff !important;
+    border-color: #005bbb !important;
+}
+
+/* Hover effect */
 .home .btn:hover,
 .home a.btn:hover {
     background-color: #004a99 !important;
