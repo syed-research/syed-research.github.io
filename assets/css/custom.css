@@ -184,3 +184,7 @@
     animation: fadeIn 0.8s ease-out forwards;
     opacity: 0;
 }
+.sidebar__right {
+    height: auto !important;
+    overflow: visible !important;
+}
