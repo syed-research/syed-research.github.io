@@ -93,3 +93,17 @@
     margin-top: 0px !important;     /* remove extra margin above the logo */
 }
 
+/* Make homepage buttons blue */
+.home .btn,
+.home a.btn {
+    background-color: #0066cc !important;   /* strong academic blue */
+    color: #fff !important;                  /* white text */
+    border-color: #0066cc !important;
+}
+
+/* Optional: blue hover effect */
+.home .btn:hover,
+.home a.btn:hover {
+    background-color: #004a99 !important;
+    border-color: #004a99 !important;
+}
