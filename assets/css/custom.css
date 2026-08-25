@@ -76,4 +76,12 @@
     max-height: 360px !important;
 }
 
+/* Reduce gap between homepage logo and the CLIMATE GROUP title below it */
+.home .page__content img {
+    margin-bottom: 10px !important;   /* reduce space under the logo */
+}
+
+.home h1 {
+    margin-top: 5px !important;       /* pull the CLIMATE GROUP title closer to the logo */
+}
 
