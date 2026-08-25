@@ -1,14 +1,15 @@
 ---
-title: "CLIMATE Research Group"
 layout: splash
-permalink: /
+title: "CLIMATE Research Group"
+excerpt: "Chemical Looping for Industrial Materials, Aviation Transition & Thermochemical Energy Systems"
+
 header:
   overlay_image: /assets/images/banner.jpg
-  overlay_filter: 0.30
-  overlay_color: "#003049"
-  caption: "CLIMATE Research Group — University of Southampton"
-excerpt: "Advancing CO₂ utilisation, chemical looping, and sustainable thermochemical engineering."
+  overlay_filter: 0.2
+  overlay_logo: /assets/images/logo-climate.png
+  overlay_logo_height: 120
 ---
+
 
 <div class="fade-in" style="text-align:center; padding: 40px 0;">
 
