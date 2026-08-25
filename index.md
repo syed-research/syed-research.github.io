@@ -60,25 +60,28 @@ header:
 </div>
 
 ---
+
 <div class="home-cards">
 
   <div>
-    <h3>👥 People</h3>
+    <h3><a href="/people/">👥 People</a></h3>
     <p>Meet the researchers driving innovation in thermochemical engineering.</p>
-    <a href="/people/">People →</a>
   </div>
+
   <div>
-    <h3>📄 Publications</h3>
+    <h3><a href="/publications/">📄 Publications</a></h3>
     <p>Explore our journal articles, conference papers, theses, and preprints.</p>
-    <a href="/publications/">Publications →</a>
   </div>
+
   <div>
-    <h3>✉️ Contact</h3>
+    <h3><a href="/contact/">✉️ Contact</a></h3>
     <p>For collaborations or enquiries, reach out via email or visit our laboratory.</p>
-    <a href="/contact/">Contact →</a>
   </div>
+
 </div>
+
 ---
+
 
 <style>
 
