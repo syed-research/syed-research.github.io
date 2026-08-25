@@ -175,3 +175,12 @@
 .home-cards h3 a:hover {
     color: #001f2b;
 }
+/* Disable sticky behaviour for the right-hand TOC */
+.sidebar__right .sticky {
+    position: static !important;
+    top: auto !important;
+}
+.sidebar__right {
+    animation: fadeIn 0.8s ease-out forwards;
+    opacity: 0;
+}
