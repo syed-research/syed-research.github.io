@@ -184,6 +184,15 @@
     animation: fadeIn 0.8s ease-out forwards;
     opacity: 0;
 }
+/* Disable sticky behaviour for the right-hand TOC */
+.sidebar__right,
+.sidebar__right .sticky,
+.page__inner-wrap .sticky,
+.toc {
+    position: static !important;
+    top: auto !important;
+}
+
 .sidebar__right {
     height: auto !important;
     overflow: visible !important;
