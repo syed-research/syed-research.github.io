@@ -206,3 +206,17 @@
     position: static !important;
     top: auto !important;
 }
+/* Modern button-style top navigation */
+.masthead__menu-item a {
+    padding: 6px 14px;
+    background: #005bbb;
+    color: #fff !important;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: background 0.25s ease, transform 0.2s ease;
+}
+
+.masthead__menu-item a:hover {
+    background: #004a99;
+    transform: translateY(-2px);
+}
