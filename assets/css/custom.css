@@ -225,3 +225,68 @@
   padding: 2rem;
   border-radius: 8px;
 }
+/* === CLIMATE Colour Palette === */
+
+/* Brand colours */
+:root {
+  --climate-blue: #2E86C1;
+  --climate-blue-dark: #1B4F72;
+  --climate-green: #27AE60;
+  --climate-green-soft: #A9DFBF;
+
+  /* Neutrals */
+  --carbon-grey: #4A4A4A;
+  --reactor-steel: #7F8C8D;
+  --light-ash: #FAFAFA;
+  --card-border: #E0E0E0;
+}
+
+/* Page background */
+.page__content {
+  background: var(--light-ash);
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+/* Headings */
+.page__content h2,
+.page__content h3 {
+  color: var(--climate-blue-dark);
+}
+
+/* Links */
+a {
+  color: var(--climate-blue);
+}
+a:hover {
+  color: var(--climate-green);
+  transition: 0.2s ease;
+}
+
+/* Navbar hover underline */
+.masthead__menu-item a {
+  position: relative;
+}
+.masthead__menu-item a::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--climate-blue);
+  transition: width 0.3s;
+}
+.masthead__menu-item a:hover::after {
+  width: 100%;
+}
+
+/* Cards (People, Facilities, News) */
+.person-card,
+.facility-card,
+.news-card {
+  background: #fff;
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 1rem;
+}
