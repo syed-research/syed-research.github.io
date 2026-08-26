@@ -11,9 +11,31 @@ If you’d like to get in touch with the CLIMATE Research Group or discuss colla
 
 ## 📍 Location
 
-School of Chemistry and Chemical Engineering  
-University of Southampton  
-Southampton, United Kingdom
+<div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:15px;">
+
+  <!-- Left column: location text -->
+  <div style="flex:1; min-width:260px;">
+    <p>
+      School of Chemistry and Chemical Engineering<br>
+      University of Southampton<br>
+      Southampton, United Kingdom
+    </p>
+  </div>
+
+  <!-- Right column: embedded map -->
+  <div style="flex:1; min-width:260px;">
+    <iframe
+      width="100%"
+      height="250"
+      style="border:0; border-radius:8px;"
+      loading="lazy"
+      allowfullscreen
+      referrerpolicy="no-referrer-when-downgrade"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.430756898349!2d-1.3985!3d50.9351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487476b2a6f0b0c1%3A0x6f0e9c0d1f9b0e7!2sUniversity%20of%20Southampton!5e0!3m2!1sen!2uk!4v1691760000000">
+    </iframe>
+  </div>
+
+</div>
 
 ---
 
@@ -39,8 +61,8 @@ For research enquiries, supervision requests, or collaboration discussions:
 
 - Chemical Looping  
 - Ca–Cu Looping  
-- Hydrogen Production
-- CO₂ Utilisation
+- Hydrogen Production  
+- CO₂ Utilisation  
 - CO₂ Capture  
 - Reactor Modelling  
 - Industrial Decarbonisation  
