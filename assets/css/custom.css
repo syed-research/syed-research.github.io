@@ -220,3 +220,8 @@
     background: #004a99;
     transform: translateY(-2px);
 }
+.page__content {
+  background: #fafafa;
+  padding: 2rem;
+  border-radius: 8px;
+}
