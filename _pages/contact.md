@@ -22,20 +22,39 @@ If you’d like to get in touch with the CLIMATE Research Group or discuss colla
     </p>
   </div>
 
-  <!-- Right column: embedded map -->
+  <!-- Right column: custom pin map -->
   <div style="flex:1; min-width:260px;">
-    <iframe
-      width="100%"
-      height="250"
-      style="border:0; border-radius:8px;"
-      loading="lazy"
-      allowfullscreen
-      referrerpolicy="no-referrer-when-downgrade"
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.430756898349!2d-1.3985!3d50.9351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487476b2a6f0b0c1%3A0x6f0e9c0d1f9b0e7!2sUniversity%20of%20Southampton!5e0!3m2!1sen!2uk!4v1691760000000">
-    </iframe>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <div id="climate-map" style="width:100%; height:250px; border-radius:8px; margin-top:10px;"></div>
+
+    <script>
+      // Create map
+      var map = L.map('climate-map').setView([50.9351, -1.3985], 15);
+
+      // Add tile layer
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap'
+      }).addTo(map);
+
+      // Custom CLIMATE pin
+      var customIcon = L.icon({
+        iconUrl: '/assets/images/map-pin.svg',
+        iconSize: [48, 48],
+        iconAnchor: [24, 48]
+      });
+
+      // Add marker
+      L.marker([50.9351, -1.3985], { icon: customIcon })
+        .addTo(map)
+        .bindPopup("<b>University of Southampton</b><br>School of Chemistry & Chemical Engineering");
+    </script>
   </div>
 
 </div>
+
 
 ---
 
