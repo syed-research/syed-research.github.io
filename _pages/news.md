@@ -8,23 +8,26 @@ sidebar: false
 classes: no-author
 ---
 
+# 📰 News & Updates
 Updates from the CLIMATE Research Group, School of Chemistry and Chemical Engineering, University of Southampton — covering publications, conferences, awards, and project milestones.
+
+<div style="margin-top: 1.5rem;"></div>
 
 ---
 
-
 ## 🔬 2026
+<div style="border-left: 4px solid #4a90e2; padding-left: 12px; margin-bottom: 1rem;"></div>
 
-### 🎤 Aug-Sep 2026 — Conference Presentation  
-Presenting our findings on **Performance evaluation of novel Ca/Mn-doped perovskite material in CL-RWGS process for low-carbon fuels** at the 2026 Chemical Looping Conference in Manchester.
+### 🎤 Aug–Sep 2026 — Conference Presentation  
+Presenting our findings on **Performance evaluation of novel Ca/Mn-doped perovskite material in CL‑RWGS process for low‑carbon fuels** at the 2026 Chemical Looping Conference in Manchester.
 
 ### 📘 July 2026 — Journal Article Published  
 Our latest work on **Ca/Mn‑doped perovskite thermo‑kinetics validated with ANN** has been published in *International Journal of Hydrogen Energy*.
 
-
 ---
 
 ## 🔥 2025
+<div style="border-left: 4px solid #e67e22; padding-left: 12px; margin-bottom: 1rem;"></div>
 
 ### 📘 May 2025 — Two New Publications  
 - Performance evaluation of Ca/Mn‑doped perovskite (*JECE*).  
@@ -36,6 +39,7 @@ Our chapter on **gasification processes in membrane reactors** is now available 
 ---
 
 ## 🏭 2024
+<div style="border-left: 4px solid #2ecc71; padding-left: 12px; margin-bottom: 1rem;"></div>
 
 ### 📘 December 2024 — RWGS–Chemical Looping Paper Published  
 Experimental RWGS–CL integration study published in *Journal of CO₂ Utilization*.
@@ -46,6 +50,7 @@ Presented new findings at the **7th International Conference on Chemical Looping
 ---
 
 ## 🏆 2023–2022 Highlights
+<div style="border-left: 4px solid #9b59b6; padding-left: 12px; margin-bottom: 1rem;"></div>
 
 ### 📘 September 2023 — Dual Publications  
 Two major papers published:  
@@ -58,6 +63,7 @@ Multiple presentations delivered at GHGT‑16 (Lyon), including CaCu looping dem
 ---
 
 ## 🧭 2021–2017
+<div style="border-left: 4px solid #34495e; padding-left: 12px; margin-bottom: 1rem;"></div>
 
 ### 📘 Foundational Work  
 Early contributions to **SE‑SMR**, **SE‑CLSR**, and **packed‑bed reactor modelling** published in *IJHE* and *Fuel*, now among the most cited works in the field.
