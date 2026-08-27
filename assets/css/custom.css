@@ -290,3 +290,18 @@ a:hover {
   border-radius: 8px;
   padding: 1rem;
 }
+.author__avatar {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.img-circle {
+  border: none !important;
+}
+.author__avatar img {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1 / 1 !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+}
