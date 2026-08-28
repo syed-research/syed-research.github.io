@@ -16,11 +16,7 @@ The CLIMATE Research Group brings together researchers working across thermochem
 
 ## 👨‍🔬 <span class="fade-up">Principal Investigator</span>
 
-<div class="fade-in" style="display:flex; align-items:flex-start; gap:25px;">
-<img src="/assets/images/Syed.jpg"
-alt="Dr. Syed Zaheer Abbas"
-style="width:180px; border-radius:10px; margin-top:10px;">
-<div>
+<div class="fade-in">
 <h3>Dr. Syed Zaheer Abbas</h3>
 <p><strong>Founder & Lead Investigator, CLIMATE Research Group</strong></p>
 
