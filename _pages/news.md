@@ -31,13 +31,13 @@ The conference brought together leading researchers and industrial partners work
 
 <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:20px 0;">
 
-/assets/images/news/CL1.jpg
+/assets/images/CL1.jpg
 
-/assets/images/news/CL2.jpg
+/assets/images/CL2.jpg
 
-/assets/images/news/CL3.jpg
+/assets/images/CL3.jpg
 
-/assets/images/news/CL4.jpg
+/assets/images/CL4.jpg
 
 </div>
 
