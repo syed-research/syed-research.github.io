@@ -22,15 +22,28 @@ Members of the **CLIMATE Research Group** attended the **8th International Confe
 
 The conference brought together leading researchers and industrial partners working on chemical looping, carbon capture, hydrogen production, and sustainable energy technologies. The event provided an excellent platform to present our latest research findings, exchange ideas with international experts, and explore new opportunities for academic and industrial collaboration.
 
-<div class="notice--info">
-<strong>Conference Highlights</strong>
-<ul>
-<li>Presentation of our latest research on advanced oxygen carrier materials for chemical looping applications.</li>
-<li>Engagement with international experts in carbon capture, utilisation, and hydrogen technologies.</li>
-<li>Discussions on emerging pathways for low-carbon fuel production.</li>
-<li>Representation of the University of Southampton at ICCL2026.</li>
-</ul>
+> **Conference Highlights**
+>
+> - Presentation of our latest research on advanced oxygen carrier materials for chemical looping applications.
+> - Engagement with international experts in carbon capture, utilisation, and hydrogen technologies.
+> - Discussions on emerging pathways for low-carbon fuel production.
+> - Representation of the University of Southampton at ICCL2026.
+
+<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:20px 0;">
+
+/assets/images/news/CL1.jpg
+
+/assets/images/news/CL2.jpg
+
+/assets/images/news/CL3.jpg
+
+/assets/images/news/CL4.jpg
+
 </div>
+
+<p style="text-align:center;font-size:0.9em;color:#666;">
+Members of the CLIMATE Research Group participating in the 8th International Conference on Chemical Looping (ICCL2026), Manchester, United Kingdom.
+</p>
 
 ---
 
@@ -65,7 +78,7 @@ Our chapter entitled:
 
 **Gasification Processes in Membrane Reactors**
 
-was published in Elsevier’s book:
+was published in Elsevier's book:
 
 *Current Trends and Future Developments on (Bio)-Membranes: Membranes for Energy Conversion.*
 
