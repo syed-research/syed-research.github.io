@@ -14,49 +14,46 @@ Updates from the **CLIMATE Research Group**, School of Chemistry and Chemical En
 
 ---
 
-## 🔬 2026
-
 ### 🌍 August 2026 — CLIMATE Research Group at ICCL2026, Manchester
 
 Members of the **CLIMATE Research Group** attended the **8th International Conference on Chemical Looping (ICCL2026)** in Manchester, United Kingdom.
 
 The conference brought together leading researchers and industrial partners working on chemical looping, carbon capture, hydrogen production, and sustainable energy technologies. The event provided an excellent platform to present our latest research findings, exchange ideas with international experts, and explore new opportunities for academic and industrial collaboration.
 
-<div style="background:#eef7ff;border-left:5px solid #4a90e2;padding:15px 20px;margin:20px 0;border-radius:6px;">
-
-<strong>Conference Highlights</strong>
-
-<ul>
-<li>Presentation of our latest research on advanced oxygen carrier materials for chemical looping applications.</li>
-<li>Engagement with international experts in carbon capture, utilisation, and hydrogen technologies.</li>
-<li>Discussions on emerging pathways for low-carbon fuel production.</li>
-<li>Exploration of future international research collaborations.</li>
-<li>Representation of the University of Southampton at ICCL2026.</li>
-</ul>
-
+<div class="notice--info">
+  <h4>Conference Highlights</h4>
+  <ul>
+    <li>Presentation of our latest research on advanced oxygen carrier materials for chemical looping applications.</li>
+    <li>Engagement with international experts in carbon capture, utilisation, and hydrogen technologies.</li>
+    <li>Discussions on emerging pathways for low-carbon fuel production.</li>
+    <li>Exploration of future international research collaborations.</li>
+    <li>Representation of the University of Southampton at ICCL2026.</li>
+  </ul>
 </div>
 
-<div style="display:grid;
-            grid-template-columns:repeat(2,1fr);
-            gap:12px;
-            max-width:700px;
-            margin:20px auto;">
+<table style="border:none; width:100%;">
+<tr>
+<td style="border:none; text-align:center; width:50%;">
+/assets/images/CL1.jpg
+</td>
+<td style="border:none; text-align:center; width:50%;">
+<img src="/assets/images/td>
+</tr>
 
-  <img src="/assets/images/CL1.jpg"
-       alt="ICCL2026 Photo 1"
-       style="width:100%;height:180px;object-fit:cover;border-radius:6px;">
+<tr>
+<td style="border:none; text-align:center;">
+<img src="/assets/images/td>
+<td style="border:none; text-align:center;">
+/assets/images/CL4.jpg
+</td>
+</tr>
+</table>
 
-  <imgrder-radius:6px;">
+<p style="text-align:center; font-size:0.9em; color:#666;">
+Members of the CLIMATE Research Group participating in the 8th International Conference on Chemical Looping (ICCL2026), Manchester, United Kingdom.
+</p>
 
-  <img src="/assets/images/CL3.jpg"
-     sets/images/CL4.jpg"
-       alt="ICCL2026 Photofont-size:0.9em;color:#666;">
-Members of the CLIMATE Research Group participating in the 8th International Conference
-Presented findings on:
-
-**Performance Evaluation of Novel Ca/Mn-Doped Perovskite Materials in the Chemical Looping Reverse Water-Gas Shift Process for Low-Carbon Fuel Production**
-
-at the Chemical Looping Conference in Manchester, UK.
+---
 
 ### 📘 July 2026 — Journal Article Published
 
