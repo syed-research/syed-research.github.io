@@ -32,13 +32,6 @@ The conference brought together leading researchers and industrial partners work
 </ul>
 </div>
 
-<div style="margin: 1.5rem 0;">
-<img src="/assets/images/news/CL1.jpeg" alt="ICCL2026 Conference" style="width:100s:repeat(auto-fit,minmax(250px,1fr));gap:12px;margin-top:1rem;">
-
-<img src="/assets/images/news/CL2.jpeg" alt="ICCL2026 Photo 2" style="width:100%; border-radiusfif" alt="ICCL2026 Photo 4" style="width:100%;;color:#666;margin-top:0.75rem;">
-Members of the CLIMATE Research Group participating in the 8th International Conference on Chemical Looping (ICCL2026), Manchester, United Kingdom.
-</p>
-
 ---
 
 ### 🎤 August 2026 — Conference Presentation
