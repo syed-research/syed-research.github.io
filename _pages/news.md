@@ -29,17 +29,24 @@ The conference brought together leading researchers and industrial partners work
 > - Discussions on emerging pathways for low-carbon fuel production.
 > - Representation of the University of Southampton at ICCL2026.
 
-<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:20px 0;">
+<div style="display:grid;
+            grid-template-columns:repeat(2,1fr);
+            gap:10px;
+            max-width:700px;
+            margin:20px auto;">
 
-/assets/images/CL1.jpg
+  <img src="/assets/images/CL1.jpg"
+       alt="ICCL2026 Conference Photo 1"
+       style="width:100%;
+              height:220px;
+              object-fit:cover;
+              border-radius:8px;">
 
-/assets/images/CL2.jpg
-
-/assets/images/CL3.jpg
-
-/assets/images/CL4.jpg
-
-</div>
+  <img src="/assets/images/CL2.jpg"
+       alt="ICCL2026 jpg"
+       alt="ICCL2026 Conference Photo 3"
+       style="width:100%;chester, United Kingdom.
+</p>
 
 <p style="text-align:center;font-size:0.9em;color:#666;">
 Members of the CLIMATE Research Group participating in the 8th International Conference on Chemical Looping (ICCL2026), Manchester, United Kingdom.
