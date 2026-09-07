@@ -5,65 +5,130 @@ permalink: /news/
 toc: false
 author_profile: false
 sidebar: false
-classes: no-author
+classes: wide
 ---
 
 # 📰 News & Updates
-Updates from the CLIMATE Research Group, School of Chemistry and Chemical Engineering, University of Southampton — covering publications, conferences, awards, and project milestones.
 
-<div style="margin-top: 1.5rem;"></div>
+Updates from the **CLIMATE Research Group**, School of Chemistry and Chemical Engineering, University of Southampton, covering publications, conferences, research achievements, collaborations, and project milestones.
 
 ---
 
 ## 🔬 2026
-<div style="border-left: 4px solid #4a90e2; padding-left: 12px; margin-bottom: 1rem;"></div>
 
-### 🎤 Aug–Sep 2026 — Conference Presentation  
-Presenting our findings on **Performance evaluation of novel Ca/Mn-doped perovskite material in CL‑RWGS process for low‑carbon fuels** at the 2026 Chemical Looping Conference in Manchester.
+### 🌍 August 2026 — CLIMATE Research Group at ICCL2026, Manchester
 
-### 📘 July 2026 — Journal Article Published  
-Our latest work on **Ca/Mn‑doped perovskite thermo‑kinetics validated with ANN** has been published in *International Journal of Hydrogen Energy*.
+Members of the **CLIMATE Research Group** attended the **8th International Conference on Chemical Looping (ICCL2026)** in Manchester, United Kingdom.
+
+The conference brought together leading researchers and industrial partners working on chemical looping, carbon capture, hydrogen production, and sustainable energy technologies. The event provided an excellent platform to present our latest research findings, exchange ideas with international experts, and explore new opportunities for academic and industrial collaboration.
+
+<div class="notice--info">
+<strong>Conference Highlights</strong>
+<ul>
+<li>Presentation of our latest research on advanced oxygen carrier materials for chemical looping applications.</li>
+<li>Engagement with international experts in carbon capture, utilisation, and hydrogen technologies.</li>
+<li>Discussions on emerging pathways for low-carbon fuel production.</li>
+<li>Representation of the University of Southampton at ICCL2026.</li>
+</ul>
+</div>
+
+<div style="margin: 1.5rem 0;">
+<img src="/assets/images/news/CL1.jfif" alt="ICCL2026 Conference" style="width:100s:repeat(auto-fit,minmax(250px,1fr));gap:12px;margin-top:1rem;">
+
+<img src="/assets/images/news/CL2.jfif" alt="ICCL2026 Photo 2" style="width:100%; border-radiusfif" alt="ICCL2026 Photo 4" style="width:100%;;color:#666;margin-top:0.75rem;">
+Members of the CLIMATE Research Group participating in the 8th International Conference on Chemical Looping (ICCL2026), Manchester, United Kingdom.
+</p>
+
+---
+
+### 🎤 August 2026 — Conference Presentation
+
+Presented findings on:
+
+**Performance Evaluation of Novel Ca/Mn-Doped Perovskite Materials in the Chemical Looping Reverse Water-Gas Shift Process for Low-Carbon Fuel Production**
+
+at the Chemical Looping Conference in Manchester, UK.
+
+### 📘 July 2026 — Journal Article Published
+
+Our latest work on:
+
+**Ca/Mn-Doped Perovskite Thermo-Kinetics Validated Using Artificial Neural Networks**
+
+has been published in the *International Journal of Hydrogen Energy*.
 
 ---
 
 ## 🔥 2025
-<div style="border-left: 4px solid #e67e22; padding-left: 12px; margin-bottom: 1rem;"></div>
 
-### 📘 May 2025 — Two New Publications  
-- Performance evaluation of Ca/Mn‑doped perovskite (*JECE*).  
-- Comparative assessment of Zeolites, MOFs, and activated carbons (*Inventions*).
+### 📘 May 2025 — Two New Publications
 
-### 📗 March 2025 — Book Chapter Published  
-Our chapter on **gasification processes in membrane reactors** is now available in Elsevier’s *Current Trends and Future Developments on (Bio)-Membranes*.
+- **Performance Evaluation of Ca/Mn-Doped Perovskite Oxygen Carriers** published in *Journal of Environmental Chemical Engineering (JECE)*.
+- **Comparative Assessment of Zeolites, MOFs and Activated Carbons for Carbon Capture Applications** published in *Inventions*.
+
+### 📗 March 2025 — Book Chapter Published
+
+Our chapter entitled:
+
+**Gasification Processes in Membrane Reactors**
+
+was published in Elsevier’s book:
+
+*Current Trends and Future Developments on (Bio)-Membranes: Membranes for Energy Conversion.*
 
 ---
 
 ## 🏭 2024
-<div style="border-left: 4px solid #2ecc71; padding-left: 12px; margin-bottom: 1rem;"></div>
 
-### 📘 December 2024 — RWGS–Chemical Looping Paper Published  
-Experimental RWGS–CL integration study published in *Journal of CO₂ Utilization*.
+### 📘 December 2024 — RWGS Chemical Looping Publication
 
-### 🎤 October 2024 — International Conference Presentation  
-Presented new findings at the **7th International Conference on Chemical Looping**, Banff, Canada.
+Our experimental study on:
+
+**Reverse Water-Gas Shift Chemical Looping (RWGS-CL) for CO₂ Utilisation**
+
+was published in the *Journal of CO₂ Utilization*.
+
+### 🎤 October 2024 — International Conference Presentation
+
+Presented recent advances in chemical looping technologies at the:
+
+**7th International Conference on Chemical Looping (ICCL2024)**
+
+Banff, Canada.
 
 ---
 
 ## 🏆 2023–2022 Highlights
-<div style="border-left: 4px solid #9b59b6; padding-left: 12px; margin-bottom: 1rem;"></div>
 
-### 📘 September 2023 — Dual Publications  
-Two major papers published:  
-- Carbon‑neutral chemical looping using glycerol/methane (*Fuel*).  
-- Fe‑based looping demonstration (*Chemical Engineering Journal*).
+### 📘 September 2023 — Dual Publications
 
-### 🎤 November 2022 — GHGT‑16 Presentations  
-Multiple presentations delivered at GHGT‑16 (Lyon), including CaCu looping demonstration and C4U project updates.
+Two major contributions were published:
+
+- Carbon-neutral chemical looping operation using glycerol and methane fuels (*Fuel*).
+- Demonstration of Fe-based chemical looping systems for low-carbon energy production (*Chemical Engineering Journal*).
+
+### 🎤 November 2022 — GHGT-16 Presentations
+
+Multiple presentations were delivered at **GHGT-16 (Lyon, France)**, including:
+
+- Calcium-Copper Chemical Looping demonstrations.
+- Carbon Capture and Utilisation (C4U) project developments.
+- Progress in integrated CO₂ capture and conversion technologies.
 
 ---
 
 ## 🧭 2021–2017
-<div style="border-left: 4px solid #34495e; padding-left: 12px; margin-bottom: 1rem;"></div>
 
-### 📘 Foundational Work  
-Early contributions to **SE‑SMR**, **SE‑CLSR**, and **packed‑bed reactor modelling** published in *IJHE* and *Fuel*, now among the most cited works in the field.
+### 📘 Foundational Research Contributions
+
+Early work from our group contributed to the development of:
+
+- Sorption-Enhanced Steam Methane Reforming (SE-SMR).
+- Sorption-Enhanced Chemical Looping Steam Reforming (SE-CLSR).
+- Packed-Bed Reactor Modelling for Hydrogen Production and CO₂ Capture.
+
+These studies were published in leading journals including *International Journal of Hydrogen Energy* and *Fuel*, and continue to be widely cited within the chemical looping research community.
+
+---
+
+*For the latest updates, publications, and conference activities, please visit this page regularly.*
