@@ -33,8 +33,6 @@ The conference brought together leading researchers and industrial partners work
 ## 🖼️ <span class="fade-up">Conference Gallery</span>
 
 <div class="conference-gallery fade-in">
-
-  <!-- Large Group Photo -->
   <figure class="news-item">
     <a href="/assets/images/Group.jpeg" dataimages/Group.jpeg
     </a>
@@ -43,8 +41,6 @@ The conference brought together leading researchers and industrial partners work
 
 </div>
 
-<!-- Second row: CLIMATE and CL3 side-by-side -->
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
 
   <figure class="news-item" style="margin:0;">
     <a href="/assets/images/CLIMATE.jpeg" data-lightbox="conference-gallery" data-title="" style="max-height:350px; width:auto;">
