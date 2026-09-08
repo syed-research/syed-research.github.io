@@ -32,23 +32,29 @@ The conference brought together leading researchers and industrial partners work
 </div>
 ## 🖼️ <span class="fade-up">Conference Gallery</span>
 
-<div class="fade-up"></div>
-
 <div class="conference-gallery fade-in">
 
+  <!-- Large Group Photo -->
   <figure class="news-item">
-    <a href="/assets/images/Group.jpeg" data-lightbox="conference-gallery" data-title="Delegates group photograph at ICCL2026">
-      <img src="/assets/images/Group.jpeg" alt="Group">
+    <a href="/assets/images/Group.jpeg" dataimages/Group.jpeg
     </a>
     <figcaption>Delegates group photograph at ICCL 2026</figcaption>
   </figure>
 
-  <figure class="news-item">
-    <a href="/assets/images/CLIMATE.jpeg" data-lightbox="conference-gallery" data-title="CLIMATE group photograph at ICCL 2026">
-      <img src="/assets/images/CLIMATE.jpeg" alt="CLIMATE" style="max-height:400px; width:auto;">
-    </a>
-    <figcaption>CLIMATE group photograph at ICCL 2026</figcaption>
+</div>
+
+<!-- Second row: CLIMATE and CL3 side-by-side -->
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
+
+  <figure class="news-item" style="margin:0;">
+    <a href="/assets/images/CLIMATE.jpeg" data-lightbox="conference-gallery" data-title="" style="max-height:350px; width:auto;">
+figcaption>
   </figure>
+
+  <figure class="news-item" style="margin:0;">
+    <a href="/assets/images/CL3.jpg" data-lightbox="conference-gallery" data-title="ICCL 2026 Conference Highlights</figcaption>
+  </figure>
+
 </div>
 
 ---
