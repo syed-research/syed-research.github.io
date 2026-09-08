@@ -305,3 +305,38 @@ a:hover {
   object-fit: cover !important;
   border-radius: 50% !important;
 }
+<style>
+
+.conference-gallery {
+  margin: 15px 0 25px 0;
+}
+
+.conference-gallery summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #0056b3;
+  padding: 8px 0;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin-top: 15px;
+}
+
+.gallery-grid img {
+  width: 100%;
+  max-width: 220px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  transition: transform 0.3s ease;
+}
+
+.gallery-grid img:hover {
+  transform: scale(1.03);
+}
+
+</style>
