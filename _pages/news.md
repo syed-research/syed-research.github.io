@@ -31,6 +31,16 @@ The conference brought together leading researchers and industrial partners work
   </ul>
 </div>
 
+<br>
+
+<details class="conference-gallery">
+<summary>📸 View ICCL2026 Photo Gallery</summary>
+<div class="gallery-grid">
+<img src="/assets/images/CL1.jpg"src="/assets/images/CL2.jpg"
+alt="ICCL2026 Conference Photo 2">
+<img src="/assets/images/CL3.jpg src="/assets/images/CL4.jpg"
+</details>
+<br>
 ---
 
 ### 📘 July 2026 — Journal Article Published
