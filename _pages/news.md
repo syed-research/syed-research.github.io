@@ -45,7 +45,7 @@ The conference brought together leading researchers and industrial partners work
 
   <figure class="news-item">
     <a href="/assets/images/CLIMATE.jpeg" data-lightbox="conference-gallery" data-title="CLIMATE group photograph at ICCL 2026">
-      <img src="/assets/images/CLIMATE.jpeg" alt="CLIMATE">
+      <img src="/assets/images/CLIMATE.jpeg" alt="CLIMATE" style="max-height:220px; width:auto;">
     </a>
     <figcaption>CLIMATE group photograph at ICCL 2026</figcaption>
   </figure>
