@@ -37,15 +37,15 @@ The conference brought together leading researchers and industrial partners work
 <div class="conference-gallery fade-in">
 
   <figure class="news-item">
-    <a href="/assets/images/GROUP.jpeg" data-lightbox="conference-gallery" data-title="Delegates group photograph at ICCL2026">
-      <img src="/assets/images/GROUP.jpeg" alt="Setup">
+    <a href="/assets/images/Group.jpeg" data-lightbox="conference-gallery" data-title="Delegates group photograph at ICCL2026">
+      <img src="/assets/images/Group.jpeg" alt="Group">
     </a>
     <figcaption>Delegates group photograph at ICCL 2026</figcaption>
   </figure>
 
   <figure class="news-item">
     <a href="/assets/images/CLIMATE.jpeg" data-lightbox="conference-gallery" data-title="CLIMATE group photograph at ICCL 2026">
-      <img src="/assets/images/GROUP.jpeg" alt="GROUP">
+      <img src="/assets/images/CLIMATE.jpeg" alt="CLIMATE">
     </a>
     <figcaption>CLIMATE group photograph at ICCL 2026</figcaption>
   </figure>
