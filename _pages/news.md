@@ -30,27 +30,27 @@ The conference brought together leading researchers and industrial partners work
     <li>Representation of the University of Southampton at ICCL2026.</li>
   </ul>
 </div>
+
 ## 🖼️ <span class="fade-up">Conference Gallery</span>
 
+<div class="fade-up"></div>
+
 <div class="conference-gallery fade-in">
+
   <figure class="news-item">
-    <a href="/assets/images/Group.jpeg" dataimages/Group.jpeg
+    <a href="/assets/images/Group.jpeg" data-lightbox="conference-gallery" data-title="Delegates group photograph at ICCL 2026">
+      <img src="/assets/images/Group.jpeg" alt="Group">
     </a>
     <figcaption>Delegates group photograph at ICCL 2026</figcaption>
   </figure>
 
-</div>
-
-
-  <figure class="news-item" style="margin:0;">
-    <a href="/assets/images/CLIMATE.jpeg" data-lightbox="conference-gallery" data-title="" style="max-height:350px; width:auto;">
-figcaption>
+  <figure class="news-item">
+    <a href="/assets/images/CLIMATE.jpeg" data-lightbox="conference-gallery" data-title="CLIMATE group photograph at ICCL 2026">
+      <img src="/assets/images/CLIMATE.jpeg" alt="CLIMATE">
+    </a>
+    <figcaption>CLIMATE group photograph at ICCL 2026</figcaption>
   </figure>
-
-  <figure class="news-item" style="margin:0;">
-    <a href="/assets/images/CL3.jpg" data-lightbox="conference-gallery" data-title="ICCL 2026 Conference Highlights</figcaption>
-  </figure>
-
+  
 </div>
 
 ---
