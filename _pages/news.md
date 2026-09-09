@@ -94,16 +94,38 @@ Our experimental study on:
 
 was published in the *Journal of CO₂ Utilization*.
 
-### 🎤 October 2024 — International Conference Presentation
+---
+### 🌍 September 2024 — CLIMATE Research Group at ICCL2024, Banff
 
-Presented recent advances in chemical looping technologies at the:
+Members of the **CLIMATE Research Group** attended the **7th International Conference on Chemical Looping (ICCL2024)** in Banff, Alberta CANADA.
 
-**7th International Conference on Chemical Looping (ICCL2024)**
+The event provided an excellent platform to present our latest research findings, exchange ideas with international experts, and explore new opportunities for academic and industrial collaboration.
 
-Banff, Canada.
+<div class="notice--info">
+  <h4>Conference Highlights</h4>
+  <ul>
+    <li>Presentation of our latest research on advanced oxygen carrier materials for chemical looping applications.</li>
+    <li>Discussions on emerging pathways for chemical looping.</li>
+    <li>Representation of the University of Southampton at ICCL2024.</li>
+  </ul>
+</div>
+
+## 🖼️ <span class="fade-up">Conference Gallery</span>
+
+<div class="fade-up"></div>
+
+<div class="conference-gallery fade-in">
+
+  <figure class="news-item">
+    <a href="/assets/images/ICCL25.jpeg" data-lightbox="conference-gallery" data-title="CLIMATE group at ICCL 2024">
+      <img src="/assets/images/ICCL25.jpeg" alt="ICCL25">
+    </a>
+    <figcaption>CLIMATE group at ICCL 2024</figcaption>
+  </figure>
+  
+</div>
 
 ---
-
 ## 🏆 2023–2022 Highlights
 
 ### 📘 September 2023 — Dual Publications
