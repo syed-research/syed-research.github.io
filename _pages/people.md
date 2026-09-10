@@ -91,7 +91,7 @@ Oliver is working on Techno-Economic Analysis of an integrated carbon utilizatio
 <h3>Malhar Deval — MENG Student</h3>
 <p><a href="https://www.linkedin.com/in/malhar-deval/" target="_blank">LinkedIn Profile</a></p>
 <p>
-Malhar is working on Synthesis and performance evaluation of novel perovskite-based hybrid materials for chemical looping based integrated CO2 capture and utilization.
+Malhar is working on Synthesis and performance evaluation of novel perovskite-based hybrid materials for chemical looping based integrated CO₂ capture and utilization.
 </p>
 </div>
 
