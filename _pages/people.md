@@ -77,7 +77,25 @@ We welcome PhD applicants with backgrounds in chemical engineering, materials sc
 </div>
 
 ---
+## 🎓 <span class="fade-up">MENG Students</span>
 
+<div class="fade-in">
+<h3>Oliver Vassallo — MENG Student</h3>
+<p><a href="https://www.linkedin.com/in/oliver-vassallo-878ab6279/" target="_blank">LinkedIn Profile</a></p>
+<p>
+Oliver is working on Techno-Economic Analysis of an integrated carbon utilization process involving purification, CO evolution and Fischer-Tropsch Systhesis.
+</p>
+</div>
+
+<div class="fade-in">
+<h3>Malhar Deval — MENG Student</h3>
+<p><a href="https://www.linkedin.com/in/malhar-deval/" target="_blank">LinkedIn Profile</a></p>
+<p>
+Malhar is working on Synthesis and performance evaluation of novel perovskite-based hybrid materials for chemical looping based integrated CO2 capture and utilization.
+</p>
+</div>
+
+---
 ## 🎓 <span class="fade-up">MSc & Undergraduate Researchers</span>
 
 <div class="fade-in">
