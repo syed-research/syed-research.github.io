@@ -29,11 +29,12 @@ The CLIMATE Research Group advances low‑carbon energy systems through chemical
 ## 🧪 <span class="fade-up">Materials Development & Characterisation</span>
 
 <div class="fade-in">
-We develop and characterise oxygen carriers, catalysts, and sorbents for advanced thermochemical conversion processes.
-
-- Ca/Mn co-doped LaNiO₃ perovskites
-- Oxygen carrier stability and redox performance
-- Adsorbents and catalytic materials for CO₂ utilisation  
+<p>We develop and characterise oxygen carriers, catalysts, and sorbents for advanced thermochemical conversion processes.</p>
+<ul>
+<li>Ca/Mn co-doped LaNiO₃ perovskites</li>
+<li>Oxygen carrier stability and redox performance</li>
+<li>Adsorbents and catalytic materials for CO₂ utilisation</li>  
+</ul>
 </div>
 
 <hr class="section-divider">
@@ -41,12 +42,13 @@ We develop and characterise oxygen carriers, catalysts, and sorbents for advance
 ## ⚙️ <span class="fade-up">Reactor Modelling & Simulation</span>
 
 <div class="fade-in">
-We combine physics-based and AI-driven modelling tools to understand, optimise, and scale-up energy processes.
-
-- CFD reactor modelling
-- gPROMS process modelling
-- Aspen Plus® simulation
-- Machine learning and ANN-enhanced kinetics 
+<p>We combine physics-based and AI-driven modelling tools to understand, optimise, and scale-up energy processes.</p>
+<ul>
+<li>CFD reactor modelling</li>
+<li>gPROMS process modelling</li>
+<li>Aspen Plus® simulation</li>
+<li>Machine learning and ANN-enhanced kinetics</li> 
+</ul>
 </div>
 
 <hr class="section-divider">
@@ -54,12 +56,13 @@ We combine physics-based and AI-driven modelling tools to understand, optimise, 
 ## 🌱 <span class="fade-up">CO₂ Utilisation & Net-Zero Pathways</span>
 
 <div class="fade-in">
-We convert captured CO₂ into valuable products while assessing their environmental and economic viability.
-
-- CL-RWGS for syngas production
-- Sustainable aviation fuel pathways
-- Techno-economic assessment (TEA)
-- Life-cycle assessment (LCA)  
+<p>We convert captured CO₂ into valuable products while assessing their environmental and economic viability.</p>
+<ul>
+<li>CL-RWGS for syngas production</li>
+<li>Sustainable aviation fuel pathways</li>
+<li>Techno-economic assessment (TEA)</li>
+<li>Life-cycle assessment (LCA)</li>  
+</ul>
 </div>
 
 <hr class="section-divider">
@@ -67,11 +70,12 @@ We convert captured CO₂ into valuable products while assessing their environme
 ## 🏭 <span class="fade-up">Industrial Decarbonisation</span>
 
 <div class="fade-in">
-We collaborate with industry to deploy looping technologies in real systems.
-
-- Blast‑furnace gas decarbonisation  
-- Cement & steel CO₂ capture  
-- High‑temperature looping for refineries  
+<p>We collaborate with industry to deploy looping technologies in real systems.</p>
+<ul>
+<li>Blast‑furnace gas decarbonisation</li>  
+<li>Cement & steel CO₂ capture</li>  
+<li>High‑temperature looping for refineries</li>  
+</ul>
 </div>
 
 <hr class="section-divider">
