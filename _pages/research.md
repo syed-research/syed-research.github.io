@@ -15,12 +15,12 @@ The CLIMATE Research Group advances low‑carbon energy systems through chemical
 ## 🔥 <span class="fade-up">Chemical Looping Technologies</span>
 
 <div class="fade-in">
-We develop next‑generation looping systems for hydrogen production, CO₂ capture, and syngas generation.
+We develop chemical looping technologies for low-carbon hydrogen production, syngas generation, CO₂ capture, and industrial decarbonisation.
 
-- Oxygen‑carrier optimisation  
-- Ca–Cu looping for H₂ + CO₂ separation  
-- RWGS–CL integration  
-- Fe‑based looping for industrial decarbonisation  
+- Chemical looping hydrogen production
+- Ca–Cu looping for integrated H₂ and CO₂ separation
+- CL-RWGS for syngas production
+- Fe-, Ni-, and Cu-based looping systems  
 </div>
 
 <hr class="section-divider">
@@ -28,12 +28,11 @@ We develop next‑generation looping systems for hydrogen production, CO₂ capt
 ## 🧪 <span class="fade-up">Materials Development & Characterisation</span>
 
 <div class="fade-in">
-We design and evaluate advanced materials for looping and catalytic systems.
+We develop and characterise oxygen carriers, catalysts, and sorbents for advanced thermochemical conversion processes.
 
-- Perovskites (Ca/Mn‑doped, Sr‑based)  
-- Ceria‑based oxygen carriers  
-- Zeolites, MOFs, activated carbons  
-- Industrial OSR materials (Cerpotech AS)  
+- Ca/Mn co-doped LaNiO₃ perovskites
+- Oxygen carrier stability and redox performance
+- Adsorbents and catalytic materials for CO₂ utilisation  
 </div>
 
 <hr class="section-divider">
@@ -41,25 +40,25 @@ We design and evaluate advanced materials for looping and catalytic systems.
 ## ⚙️ <span class="fade-up">Reactor Modelling & Simulation</span>
 
 <div class="fade-in">
-We build detailed reactor and process models to optimise performance and scale‑up.
+We combine physics-based and AI-driven modelling tools to understand, optimise, and scale-up energy processes.
 
-- Packed‑bed & fluidised‑bed modelling  
-- Redox kinetics & heat‑integration  
-- Aspen Plus® process simulation  
-- ANN‑enhanced thermo‑kinetic prediction  
+- CFD reactor modelling
+- gPROMS process modelling
+- Aspen Plus® simulation
+- Machine learning and ANN-enhanced kinetics 
 </div>
 
 <hr class="section-divider">
 
-## 🌱 <span class="fade-up">CO₂ Utilisation & Sustainable Fuels</span>
+## 🌱 <span class="fade-up">CO₂ Utilisation & Net-Zero Pathways</span>
 
 <div class="fade-in">
-We develop carbon‑neutral fuel pathways using looping‑enabled syngas production.
+We convert captured CO₂ into valuable products while assessing their environmental and economic viability.
 
-- RWGS‑CL syngas generation  
-- Fischer–Tropsch catalyst testing  
-- SAF pathway integration  
-- Techno‑economic & lifecycle analysis  
+- CL-RWGS for syngas production
+- Sustainable aviation fuel pathways
+- Techno-economic assessment (TEA)
+- Life-cycle assessment (LCA)  
 </div>
 
 <hr class="section-divider">
@@ -72,7 +71,6 @@ We collaborate with industry to deploy looping technologies in real systems.
 - Blast‑furnace gas decarbonisation  
 - Cement & steel CO₂ capture  
 - High‑temperature looping for refineries  
-- Integration with DIR‑SOFC & membrane reactors  
 </div>
 
 <hr class="section-divider">
@@ -82,7 +80,7 @@ We collaborate with industry to deploy looping technologies in real systems.
 <div class="pub-list fade-in">
 
 <div class="pub-item">
-  <span class="pub-title">RWGS–CL Integration for Modular Syngas Production</span><br>
+  <span class="pub-title">CL-RWGS Integration for Modular Syngas Production</span><br>
   <span class="pub-meta"><em>Journal of CO₂ Utilization</em>, 2024</span>
 </div>
 
