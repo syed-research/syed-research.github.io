@@ -27,5 +27,4 @@ main:
     icon: "fas fa-envelope"
     url: "/contact/"
 
-  - title: "Search"
-    url: /search/
+
