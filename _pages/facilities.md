@@ -18,30 +18,29 @@ The CLIMATE Research Group operates advanced experimental and computational faci
 ## 🔥 <span class="fade-up">Chemical Looping Reactor Systems</span>
 
 <div class="fade-in">
-We maintain a fully operational reactor platform designed for multi‑cycle redox experiments:
-
-- Packed‑bed reactor enclosed in a Carbolite split furnace  
-- Atmospheric and high‑pressure capability  
-- Automated multi‑cycle operation for long‑duration looping studies  
-- Multiple mass‑flow controllers (MFCs) for precise gas delivery  
-- High‑pressure gas handling with safety‑integrated control  
-- Real‑time data acquisition for temperature, pressure, and gas composition  
-
-These systems enable detailed investigation of oxygen carriers, redox kinetics, and reactor performance under industrially relevant conditions.
+<p>We maintain a fully operational reactor platform designed for multi‑cycle redox experiments:</p>
+<ul>
+<li>Packed‑bed reactor enclosed in a Carbolite split furnace</li>  
+<li>Atmospheric and high‑pressure capability</li>  
+<li>Automated multi‑cycle operation for long‑duration looping studies</li>  
+<li>Multiple mass‑flow controllers (MFCs) for precise gas delivery</li>  
+<li>High‑pressure gas handling with safety‑integrated control</li>  
+<li>Real‑time data acquisition for temperature, pressure, and gas composition</li>  
+</ul>
+<p>These systems enable detailed investigation of oxygen carriers, redox kinetics, and reactor performance under industrially relevant conditions.</p>
 </div>
-
 ---
 
 ## 🧪 <span class="fade-up">Gas Analysis & Monitoring</span>
 
 <div class="fade-in">
-Our reactor systems are coupled with advanced gas‑phase analytical tools:
-
-- Mass spectrometer (MS) for continuous gas‑composition monitoring  
-- CO/CO₂ analyser for carbon‑balance and conversion efficiency  
-- High‑resolution data logging for transient and steady‑state analysis  
-
-These instruments allow precise quantification of reaction pathways during chemical looping cycles.
+<p>Our reactor systems are coupled with advanced gas‑phase analytical tools:</p>
+<ul>
+<li>Mass spectrometer (MS) for continuous gas‑composition monitoring</li>  
+<li>CO/CO₂ analyser for carbon‑balance and conversion efficiency</li>  
+<li>High‑resolution data logging for transient and steady‑state analysis</li>  
+</ul>
+<p>These instruments allow precise quantification of reaction pathways during chemical looping cycles.</p>
 </div>
 
 ---
@@ -49,13 +48,13 @@ These instruments allow precise quantification of reaction pathways during chemi
 ## ⚗️ <span class="fade-up">Materials Synthesis & Processing</span>
 
 <div class="fade-in">
-We support synthesis and preparation of oxygen carriers, catalysts, and sorbents:
-
-- Muffle furnace for calcination, activation, and thermal treatment  
-- Controlled‑atmosphere heating for precursor decomposition and phase formation  
-- Batch preparation tools for sol‑gel, impregnation, and composite formation  
-
-These facilities enable production of tailored materials for CO₂ utilisation and looping processes.
+<p>We support synthesis and preparation of oxygen carriers, catalysts, and sorbents:</p>
+<ul>
+<li>Muffle furnace for calcination, activation, and thermal treatment</li>  
+<li>Controlled‑atmosphere heating for precursor decomposition and phase formation</li>  
+<li>Batch preparation tools for sol‑gel, impregnation, and composite formation</li>  
+</ul>
+<p>These facilities enable production of tailored materials for CO₂ utilisation and looping processes.</p>
 </div>
 
 ---
@@ -63,13 +62,13 @@ These facilities enable production of tailored materials for CO₂ utilisation a
 ## 🔥 <span class="fade-up">Temperature‑Programmed Experiments</span>
 
 <div class="fade-in">
-We operate an AUTOCHEM III system for:
-
-- Temperature‑programmed oxidation (TPO)  
-- Temperature‑programmed reduction (TPR)  
-- Temperature‑programmed desorption (TPD)  
-
-This instrument provides mechanistic insight into surface chemistry, redox behaviour, and gas–solid interactions.
+<p>We operate an AUTOCHEM III system for:</p>
+<ul>
+<li>Temperature‑programmed oxidation (TPO)</li>  
+<li>Temperature‑programmed reduction (TPR)</li>  
+<li>Temperature‑programmed desorption (TPD)</li>  
+</ul>
+<p>This instrument provides mechanistic insight into surface chemistry, redox behaviour, and gas–solid interactions.</p>
 </div>
 
 ---
@@ -77,14 +76,14 @@ This instrument provides mechanistic insight into surface chemistry, redox behav
 ## 🔬 <span class="fade-up">Characterisation Facilities</span>
 
 <div class="fade-in">
-Our group has access to a comprehensive suite of material‑characterisation tools:
-
-- X‑ray diffraction (XRD) for phase identification  
-- Scanning electron microscopy (SEM) for morphology and microstructure  
-- Fourier‑transform infrared spectroscopy (FTIR) for surface functional groups  
-- BET surface area analysis for porosity and adsorption behaviour  
-
-These techniques support multi‑scale understanding of material performance in thermochemical systems.
+<p>Our group has access to a comprehensive suite of material‑characterisation tools:</p>
+<ul>
+<li>X‑ray diffraction (XRD) for phase identification</li>  
+<li>Scanning electron microscopy (SEM) for morphology and microstructure</li>  
+<li>Fourier‑transform infrared spectroscopy (FTIR) for surface functional groups</li>  
+<li>BET surface area analysis for porosity and adsorption behaviour</li>  
+</ul>
+<p>These techniques support multi‑scale understanding of material performance in thermochemical systems.</p>
 </div>
 
 ---
@@ -92,14 +91,14 @@ These techniques support multi‑scale understanding of material performance in 
 ## 💻 <span class="fade-up">Computational Facilities</span>
 
 <div class="fade-in">
-We maintain high‑performance computing systems for:
-
-- CFD simulations of chemical looping reactors  
-- Multi‑phase flow modelling  
-- Reaction‑kinetics integration  
-- Large‑scale parametric studies  
-
-Our computational tools enable design, optimisation, and scale‑up of advanced thermochemical processes
+<p>We maintain high‑performance computing systems for:</p>
+<ul>
+<li>CFD simulations of chemical looping reactors</li>   
+<li>Multi‑phase flow modelling</li>   
+<li>Reaction‑kinetics integration</li>   
+<li>Large‑scale parametric studies</li>   
+</ul>
+<p>Our computational tools enable design, optimisation, and scale‑up of advanced thermochemical processes</p>
 </div>
 ---
 
