@@ -40,22 +40,22 @@ header:
 <div class="research-grid fade-in">
   <div class="rg-item lift">
     <h3>🔥 Chemical Looping</h3>
-    <p>Redox systems for H₂ production, CO₂ capture, and syngas generation.</p>
+    <p>Advancing chemical looping technologies for low-carbon hydrogen production, CO₂ capture, syngas generation, and industrial decarbonisation.</p>
   </div>
 
   <div class="rg-item lift">
-    <h3>🧪 Materials</h3>
-    <p>Perovskites, ceria carriers, catalysts, and sorbents for high‑temperature processes.</p>
+    <h3>🧪 Functional Materials</h3>
+    <p>Design and deployment of oxygen carriers, catalysts, and sorbents, including Ca/Mn co-doped LaNiO3 and industrial Ca-, Cu-, Ni-, and Fe-based materials for high-temperature conversion processes.</p>
   </div>
 
   <div class="rg-item lift">
-    <h3>⚙️ Modelling</h3>
-    <p>Reactor modelling, ANN‑enhanced kinetics, and Aspen Plus® process simulation.</p>
+    <h3>⚙️ Process Modelling & Digitalisation</h3>
+    <p>Multi-scale modelling using gPROMS, CFD, Aspen Plus®, and machine learning approaches to accelerate process understanding, optimisation, and scale-up.</p>
   </div>
 
   <div class="rg-item lift">
-    <h3>🌱 CO₂ Utilisation</h3>
-    <p>RWGS‑CL syngas pathways, FT synthesis, and sustainable aviation fuel integration.</p>
+    <h3>🌱 CO₂ Utilisation & Net-Zero Pathways</h3>
+    <p>CL-RWGS-based syngas production, sustainable fuel pathways, and integrated techno-economic (TEA) and life-cycle (LCA) assessments for industrial decarbonisation.</p>
   </div>
 </div>
 
