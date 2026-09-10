@@ -15,12 +15,13 @@ The CLIMATE Research Group advances low‑carbon energy systems through chemical
 ## 🔥 <span class="fade-up">Chemical Looping Technologies</span>
 
 <div class="fade-in">
-We develop chemical looping technologies for low-carbon hydrogen production, syngas generation, CO₂ capture, and industrial decarbonisation.
-
-- Chemical looping hydrogen production
-- Ca–Cu looping for integrated H₂ and CO₂ separation
-- CL-RWGS for syngas production
-- Fe-, Ni-, and Cu-based looping systems  
+<p>We develop chemical looping technologies for low-carbon hydrogen production, syngas generation, CO₂ capture, and industrial decarbonisation.</p>
+<ul>
+<li>Chemical looping hydrogen production</li>
+<li>Ca–Cu looping for integrated H₂ and CO₂ separation</li>
+<li>CL-RWGS for syngas production</li>
+<li>Fe-, Ni-, and Cu-based looping systems</li>  
+  </ul>
 </div>
 
 <hr class="section-divider">
